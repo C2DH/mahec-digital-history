@@ -4,7 +4,6 @@ abstract: 'The repository was created for the students of the MAHEC to experimen
 authors:
   - sofia-papastamkou
 date: 2024-10-08
-object_date: 1955-1957
 ---
 
 ## Description
