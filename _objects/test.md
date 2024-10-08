@@ -1,12 +1,12 @@
 ---
-title: Braun TS 1
-abstract: 'The Braun TS 1 is a radio manufactured by the german Braun company. This radio, along with ther models, introduced a new concept of radio-making. The Braun company tried to design their radios by fitting them to different home styles.'
+title: MAHEC- Introduction to Digital History
+abstract: 'The repository was created for the students of the MAHEC to experiment with use of GitHub/Markdown for editing and publishing on the web'
 authors:
   - sofia-papastamkou
-date: 2023-10-13
+date: 2024-10-08
 object_date: 1955-1957
 ---
 
-## Object Biography
+## Description
 
-In this day and age, electronic devices such as smartphones, laptops and even TVs are built for not one specific purpose or task. They are built to surf the internet, listen to music, to enhance the bureaucratic work workflow, and even listen to the radio.
+This repository was created for educational use as part of the master HEC, University of Luxembourg. 
