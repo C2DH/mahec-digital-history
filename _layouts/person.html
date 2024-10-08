@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.content }}</p>
+    </div>
+  </div>
+  <div class="row mt-5">
+    {% assign author_objects = site.objects | where: "authors", page.slug %}
+    {% if author_objects.size %}
+      <h2>As author in this website</h2>
+      {% for object_page in author_objects %}
+
+      <div class="col-xl-3 col-lg-4 mb-3">
+        <a href="{{ object_page.url }}">{{ object_page.title }}</a>
+        <p class="mt-2">
+          <br />written by
+          <!-- loop over project autors using people id -->
+          {% for author in object_page.authors %} {% include author_link.html %}
+          {% if forloop.last %}{% else %}, {% endif %} {% endfor %}
+          <br />
+          {% if object_page.date %}{{ object_page.date | date: "%B %-d, %Y" }}{%
+          endif %}
+        </p>
+        <blockquote class="mt-2">{{ object_page.abstract }}</blockquote>
+      </div>
+      {% endfor %} 
+    {% endif %}
+  </div>
+  <div class="row"></div>
+</div>

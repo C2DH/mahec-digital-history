@@ -1,0 +1,3 @@
+{% assign author_data = site.people | where: "slug", author | first %}
+<a href="{{ author_data.url }}" target="_blank">{{ author_data.title }}</a>
+<blockquote>{{ author_data.content | markdownify}}</blockquote>

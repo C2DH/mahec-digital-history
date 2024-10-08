@@ -1,0 +1,41 @@
+<table class="table p-3 bg-primary">
+  <caption>
+    Object metadata
+  </caption>
+  <thead>
+    <tr>
+      <th>property</th>
+      <th>value</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% if page.object_date %}
+    <tr>
+      <td>Object date</td>
+      <td>{{ page.object_date }}</td>
+    </tr>
+    {% endif %} {% if page.object_start_date %}
+    <tr>
+      <td>start date</td>
+      <td>{{ page.object_start_date | date: "%B %-d, %Y"}}</td>
+    </tr>
+    {% endif %} {% if page.object_end_date %}
+    <tr>
+      <td>end date</td>
+      <td>{{ page.object_end_date | date: "%B %-d, %Y"}}</td>
+    </tr>
+    {% endif %}
+    {% if page.object_wikidata_id %}
+    <tr>
+      <td>WIKIDATA id</td>
+      <td>
+        <a
+          href="https://www.wikidata.org/wiki/{{ page.object_wikidata_id }}"
+          target="_blank"
+          >{{ page.object_wikidata_id }}</a
+        >
+      </td>
+    </tr>
+    {% endif %}
+  </tbody>
+</table>

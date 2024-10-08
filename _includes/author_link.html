@@ -1,0 +1,2 @@
+{% assign author_data = site.people | where: "slug", author | first %}
+<a href="{{ author_data.url }}">{{ author_data.title }}</a>
