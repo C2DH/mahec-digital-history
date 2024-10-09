@@ -1,6 +1,6 @@
 ---
 title: Session Summaries by Jelena Kalezic
-abstract: 'Bla bla bla bla'
+abstract: 'Summaries'
 authors:
   - jelena-kalezic
 date: 2024-10-08
