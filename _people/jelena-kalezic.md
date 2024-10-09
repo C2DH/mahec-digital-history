@@ -2,7 +2,7 @@
 id: jelena-kalezic  
 category: class 
 group: collaborator
-ordering: kaljic
+ordering: kalezic
 subheading: Student
 title: Student JK
 ---
