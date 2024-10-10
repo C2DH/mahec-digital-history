@@ -20,6 +20,12 @@ A first group presented the Internet Archive, a non-profit organization formed i
 The fifth group presented archives on a more personal level, the family, with images, but also by presenting how they themselves had shared data and information regarding family online as is subconsciously done frequently by many people.
 The final group presented the September 11th Digital Archive, an archive with the goal of preserving data and a variety of media, partially made available by private persons, related to the September 11th, 2001, terrorist attack on the Twin Towers.
 
+## Summary of the 9th of October 2024 session of Introduction to Digital History
+
+During the lesson of the 9th of October, we were first familiarized with the “Impresso” project and app, an initially swiss-luxembourgish collaboration, now incorporating partners from other countries, that, via a current corpus of over 70 Swiss and Luxembourgish Newspapers, aims at significantly improving the way researchers in the field of History consult, find, use and then interpret data from the selected newspapers. This is made possible with an enhanced keyword-search mechanism that can, with added parameters, consider OCR-mistakes as well as synonyms. Furthermore, other Impresso tools like Ngram, to give an example, permitted seeing the occurrences of certain keywords over time.
+We were then divided into groups and had the task of exploring specific aspects of Impresso on any given subject. As group 4, we analysed the information given by the Ngram tool of Impresso about sorcery as a chosen topic with the keywords “sorcellerie” and “Hexerei”, giving 6.884 results, which was further refined with the added language filter of “Luxembourgish” gave us 8 results nonetheless who were concentrated around the very early 20th century. We then used the country filter to see specifically the results from Luxembourg alone. Care must be taken with such results as bias are very easily conceived and a researcher can easily only see what he likes to see or expected.
+Lastly, we were introduced to Github, a social platform aimed at programmers, which we will use to submit our weekly summaries via a coding language called “Markdown”.
+
 
 
 
