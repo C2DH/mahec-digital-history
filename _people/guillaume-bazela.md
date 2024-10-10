@@ -7,4 +7,4 @@ subheading: Student
 title: StudentBG 
 ---
 
-student INtroduction Digital History 
+student Introduction Digital History 
