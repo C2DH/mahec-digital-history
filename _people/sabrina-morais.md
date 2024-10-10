@@ -7,4 +7,4 @@ subheading: Student
 title: Student SM 
 ---
 
-Sabrina Morais is a student at the University of Luxembourg and is doing Master en Histoire européenne contemporaine.
+Sabrina Morais is a student at the University of Luxembourg and is doing a Master en Histoire européenne contemporaine.
