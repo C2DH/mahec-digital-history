@@ -1,6 +1,6 @@
 ---
 title: Session Summaries by Guillaume Bazela
-abstract: 'Bla bla bla'
+abstract: Summaries
 authors:
   - Bazela - 0210949110
 date: 2024-10-10
@@ -15,7 +15,7 @@ In general, the course was theoretical, and the rhythm was very fast, which made
 
 ---
 title: Session Summaries by Bazela
-abstract: 'Bla bla bla'
+abstract: Summaries
 authors:
   - Bazela - 0210949110
 date: 2024-10-10
