@@ -1,6 +1,6 @@
 ---
-title: Session Summaries by Guillaume Bazela
-abstract: Summaries
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-1
 authors:
   - Bazela - 0210949110
 date: 2024-10-10
@@ -14,8 +14,8 @@ In general, the course was theoretical, and the rhythm was very fast, which made
 (217 words)
 
 ---
-title: Session Summaries by Bazela
-abstract: Summaries
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-2
 authors:
   - Bazela - 0210949110
 date: 2024-10-10
