@@ -3,7 +3,7 @@ title: Session Summaries by Name-of-Contributor
 abstract: 'Bla bla bla'
 authors:
   - person-id
-date: YYYY-MM-DD
+date: 2024-10-11
 ---
 
 ## [Title of the session], [date of the session]
