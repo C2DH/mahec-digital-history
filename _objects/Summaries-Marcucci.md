@@ -22,6 +22,19 @@ The course Web Archives” was a refreshing departure from traditional lecture-b
 Using the Wayback Machine, we traced the site’s history by entering the URL www.luxembourg.lu. it was fascinating to see how the website had changed overtime. We examined the information and resources available in various archived version, comparing the earliest and most recent pages. Analyzing the shifts in content, design, and accessibility, we gained valuable insights into how Luxembourg’s digital presence has evolved – an intriguing discovery for all of us.
 After conducting our research, we presented our findings in a five-minute presentation. Although we did not have as much time to prepare as we’d have liked, the feedback from our professors was very helpful. Their thoughtful questions, not only for our group but for every single group, encouraged us to think more deeply about the subject. Each group’s presentation was unique, offering a wide range of interesting topics and perspectives. I found the last group’s project particularly engaging, as they added insights that made their presentation more relatable.
 Overall, this hands-on approach made the course far more enjoyable and memorable. Instead of just learning facts, we applied what we learned, making the experience both meaningful and fun.
+---
+title: Session Summaries by Chiara-marcucci
+abstract: Summary-3
+authors:
+  - Marcucci-0211287606
+date: 2024-10-12
+---
+
+## [Machine learning - Impresso], [2024-10-09]
+
+In our course held on the 9th of October 2024 on machine learning and historical media, specifically on the project Impresso, we explored together with Mr. During how this program links data, individuals, and various disciplines to analyze historical newspapers, offering a glimpse into the traditions, values, and everyday experiences of past societies, touching on areas such as clothing, cuisine, and daily habits. Now digitized, they can be efficiently searched through machine learning techniques. During the demo, we explored the Impresso platform to track the frequency of specific terms in old newspapers, using thematic filters, or “lenses”, to visualize word usage across different sections. We compared terms like “Atomkraft” and “Nucléaire”, analyzing their occurrence in various countries over time. Additionally, we were introduced to the concept of “tokens”, small data units such as words, which are used to quantify term frequency. We also discussed OCR’s; a concept I was not familiar with before but often encountered when searching for particular words. Later on, we were divided into pairs for a hands-on activity. Indeed, Océane and I used the “Ngrams” tool to compare both our hometowns “Calmus” and “Bascharage”, finding this interactive method more engaging than passive listening. The Impresso project reminded me of the Luxembourgish site eluxemburgensia, which I find an excellent resource for primary sources and newspapers. In the final session, Mrs. Papastamkou introduced us to the platform GitHub, but the rushed presentation left many confused. Fortunately, a follow-up email provided the necessary clarification, helping us better understand the tool and its setup. In the end, it turned out to be a very interesting and useful platform.
+
+
 
 
 
