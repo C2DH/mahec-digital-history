@@ -28,3 +28,18 @@ This course introduced to us web archives. The course emphasized interaction, as
 
 I personally found the course very interactive, and much better than the first one, because it was much less theoretical. The fact that we could read and discuss different kinds of web archives in groups and then have a class discussion made it easier to understand the importance of such archives. 
 
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-3
+authors:
+  - Ricci-0210959012
+date: 2024-10-13
+---
+
+## Impresso, 09-10-2024
+After exploring the presentation of this course, I gathered that Impresso enables historians to explore and analyze collections of digitized historical newspapers from Luxembourg and Switzerland (1739-2018) using natural language processing tools and interactive visualizations. It simplifies content searches with semantic filters while ensuring transparency regarding data quality and processing methods. Additionally, Impresso utilized various filters and detects OCR errors, enhancing the accuracy of searches for historians and making the research processes more precise. 
+Since I didn’t receive a response from the Impresso team, I had to conduct my own experiment using Chiara Marcucci’s account. I experimented with the “Ngrams” tool, where I used the names of my city, “Petange” in French and “Petingen” in German. The word, or token in NLP, appears 21.083 times in French and 40.897 times in German, across a total of 39.413 articles. What stood out in my experiment was that both words appeared only 168 times in Swiss articles, meaning they were predominantly found in Luxemburgish newspapers. Furthermore, using the “Inspect & Compare” function, I discovered that both words appeared most frequently in the “Luxemburger Wort”, with the French version peaking in 1936 (9.34 ppm) and the German version in 1941 (21.54 ppm), possibly due to Nazi occupation of Luxembourg during World War II. Moreover, the common results were found most often in the “Escher Tageblatt” with 42 occurrences. In this way, Impresso allows for the exploration of a substantial corpus of digitized articles, making historical research more organized and significantly improving data management.
+250 words
+
+Personally, I found that despite missing the class, exploring and experimenting with Impresso at home helped me understand the functionality of the interface and its importance for historians working with Swiss and Luxemburgish newspapers. It is indeed a practical tool that helps better organize research and find relevant sources for such studies. 
+
