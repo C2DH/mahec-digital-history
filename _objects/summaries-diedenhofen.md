@@ -14,7 +14,7 @@ In a second step, the Tropy software was presented. I can't say much about the T
 Course feedback:
 In future courses where new tools are introduced, more time should be spent on explaining the tool to the students instead of having a purely theoretical course and not having enough time at the end to explain the software in more detail.
 
-## Web Archives, 02/11/2024
+## Web Archives, 02/10/2024
 The course, held on 2 October addressed the subject of web archives. To work through the different themes of this topic, we were divided into six groups, each tasked with a specific exercise related to web archives. These groups then presented their findings to the class.
 While the other groups dealt with topics such as the stakes of archiving the web, the Luxembourg Web Archive, Archiving luxembourg.lu, fluidity of the web or crowdsourced born digital archives, my group dealt with the topic of family and personal archives in the web.
 In my group's assignment, we looked at a web archive created by a private individual, Roy Simons, which was about his grandfather. He created this web archive using the free website service Webklik. However, such privately created websites have the problem that they can disappear over time, for example due to copyright problems. After some time, his web archives were taken over by a web hosting service company Weebly, which also took the content with it. The content that Roy Simons had put on the web was all deleted and the new site that was created is no longer a personal family archive but a collection on a central theme where no people or relatives are named. 
