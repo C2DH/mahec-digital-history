@@ -22,6 +22,13 @@ In a second step, we searched for ourselves on the internet and checked whether 
 
 I personally liked the way this course was organised. Instead of a purely theoretical course, you were able to discuss a topic in small groups and the experimentation with the Wayback Machine was also entertaining. In addition, the lecturer's intervention with additional information after each presentation was clear and easier to absorb than during a purely theoretical lesson.
 
+## Online Newspaper Archives and Impresso, 09/10/2024
+During the course on 9 October, we worked with the Impresso tool. Impresso is a project that was initially a collaboration between Switzerland and Luxembourg, but today several other partners from other countries are also involved in the project.
+The first step was to introduce us to Impresso in general and its functions. The aim of Impresso is to facilitate research by means of digitised journals from over 70 journals. This allows you to find, analyse, interpret or compare different data. These possibilities are created by a keyword search engine in which you can try out many different filters. OCR-mistakes are also taken into account and can be selected as synonyms.
+In a second step, we were divided into different groups and asked to research a topic with a function from Impresso. As group 7, we used the Ngrma function of Impresso to search for our home villages, Lintgen and Dudelange. The Ngram function is a search function that indicates how often a certain term appears annually in the magazines integrated in the project. In our results, we immediately realised that Dudelange was not to be found in any magazine from 1941-1944. As a result, we entered the German spelling, Düdelingen, and recognised a high incidence of this spelling. This concerning the 2nd World War and the German invasion of Luxembourg. From 1950 onwards, one generally finds few hit points for cities in periodicals, due to copyright problems.
+At the end of the course, we were shown how to upload our weekly summaries to the Github platform using a coding language called Markdown.
+
+
 
 
 
