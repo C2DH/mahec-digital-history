@@ -1,5 +1,36 @@
 ---
 title: Session Summaries by Diana-Dias-Pereira
+abstract: 
+authors:
+  - dias-pereira-id
+date: 2024-10-9
+---
+
+## Online newspaper archives and tool 3 impresso, 9th of October 2024
+For today’s class we had to read the article of Marten Düring, Estelle Bunout and Daniele Guido that talks about the Impresso App and what kind of features it offers and how it analyzes the different newspapers. Newspapers have a bigger importance than one could think, they don’t just transmit information and news, but they also reflect society back then, on the political, social and religious aspect. By analyzing the different types of information, opportunities emerge for the researcher to focus on different aspects. 
+While experimenting the Impresso app, the professor showed us the different filters one can apply in order to get the specific information we are looking for. The also gave us some explanations why around the 1950s the spikes stop existing, due to the copyright. 
+Professor Düring also explained us what kind of challenges they had while developing the Impresso app, for example the recognizing of characters. Some characters in the newspapers while being scanned and analyzed resembled themselves. We tried it with the French word nucléaire. There exists a filter called add similar words, which you can see in the following screenshot taken by me.  There are also incorrect written words, which allows us to find articles who talk about the same topic, this correction allows us to find similar articles about the same topic, even if the word is misspelled in the search. 
+Claire and I tried it out with the historical personage Adolf Hitler. We put different words, like “Hitler”, “Juden”, “juifs”, “Hakenkreuz”, “KZ” and “Konzentrationslager” and tried the unigrams in order to see how often those words came up and to see the differences of how often those words appeared in a certain period of time. This kind of tool is interesting for historians to draw links between the words and their importance during a certain timeframe. 
+
+
+---
+title: Session Summaries by Diana-Dias-Pereira
+abstract: 
+authors:
+  - dias-pereira-id
+date: 2024-10-2
+---
+
+## Webarchives, 2nd of October 2024
+Last class, each group had to present either an article, a website, or how and where data is preserved and archived on the Internet. The different assignments focused on Internet Archive, what is the main problem for archiving in the web, what kind of solutions exist and what kind of tools do we have specifically in Luxembourg.
+Our group had to focus on the archiving of the official portal of the Grand Duchy of Luxembourg (Luxembourg.lu) and how the website changed trough time. In order to do that, we got assigned to analyze those differences with the help of the Wayback machine. The Wayback machine is a website that collects captures of the different websites over time, in order to see the differences that occurred over time. Our group focused on comparing the first and last capture taken of the official portal of the Grand Duchy. We saw that different things had changed over time, like the layout, the different categories, and the information you could get. Over time, the website became more complete, it had pictures, articles about different topics, like tourism, economy, or social life in Luxembourg, which the portal didn’t have back in 1994.
+The other groups presented other web archives, like Eluxemburgensia.lu, which is a portal who has digitalized Luxembourgish newspapers, since the beginning of the Luxembourgish press. Another group had to focus on how personal archives work in the web and what kind of challenges they represent. 
+Those assignments and texts we had to read gave me a different perspective on how the different systems or websites, like Eluxemburgensia.lu, Luxembourg.lu or the web archives in general work how they use data in general. It’s interesting to see how they process data and conserve it for other uses, like research in digital history for example and how they can be used for research. Especially in our modern and digitalized world we live, it’s important to have such tools to facilitate our research and access to different sources. Having the possibility to consult different sources online, thanks to the internet archive is a huge step in our research process because it’s less time consuming and easy to find. In my opinion Internet archives will become the future of archives, especially in times like Covid-19, Internet archives were such an important tool, because you didn’t have to leave your home to consult different sources. 
+
+
+
+---
+title: Session Summaries by Diana-Dias-Pereira
 abstract: 'Bla bla bla'
 authors:
   - dias-pereira-id
