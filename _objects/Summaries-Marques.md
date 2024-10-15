@@ -1,5 +1,5 @@
 ---
-title: Session Summaries by During Marten
+title: Session Summaries by Marques Océane
 abstract: Summary
 authors:
   - Marques-id
