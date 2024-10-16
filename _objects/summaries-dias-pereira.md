@@ -1,4 +1,23 @@
 ---
+title: Session Summaries by Schmid Eliane
+abstract: 
+authors:
+  - dias-pereira-id
+date: 2024-10-16
+---
+
+## Maps, 16th of October 2024
+
+In today's class we quickly summarized the homework we had to do and discussed about the importance of maps. After finishing this, we created different groups, each one had to create a story map about a certain topic. Our group had to focus on the story map of the Olympic marathon. The main goal was to see and analyze how the map was conceived and to understand what kind of information we can collect from it. The story map in question was about the history of the Olympic marathon and which different athletes won between 1896 and 2020.
+The map gave us different type of information, it contained data such as: where the marathon took place, who won the marathon, where the athlete comes from or when he or she won the race. At the end of the article, we had to read was a column chart indicating the male and female winners of the Olympic marathon in times in and the same thing for from what continent the athlete was. This gives us a perception on the diversity and identities of the participating athletes. 
+
+Just by comparing the maps we can connect links between historical events and the Olympic marathon. During the Second World war and First World war for example, no Olympic marathons took place. In 1984 for example the first women participated at the Olympics. On the interactive map, they showed for example the race of the female and male winners at the same time, to show the difference of their time and pace. 
+
+One thing we could maybe reproach to this storymap is maybe the used satellite map. Even if they ran those streets back then, I think that the city didn’t look exactly like on the satellite map they used. It might be an anachronistically map to the time the race took place. 
+We can conclude, that those kind of maps can be useful to give the public a visual representation of the track they had to run and how fast they ran marathons in time. 
+
+
+---
 title: Session Summaries by Diana-Dias-Pereira
 abstract: 
 authors:
