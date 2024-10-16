@@ -43,3 +43,19 @@ Since I didn’t receive a response from the Impresso team, I had to conduct my 
 
 Personally, I found that despite missing the class, exploring and experimenting with Impresso at home helped me understand the functionality of the interface and its importance for historians working with Swiss and Luxemburgish newspapers. It is indeed a practical tool that helps better organize research and find relevant sources for such studies. 
 
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-4
+authors:
+  - Ricci-0210959012
+date: 2024-10-16
+---
+
+## Maps, 16-10-2024
+After a brief introduction covering the key elements of maps, this course primarily focused on group work using “StoryMaps”. This interactive tool enables storytelling through maps, and our group used it to create a story map based on John Snow’s famous map of the 1854 cholera outbreak in London. Our experience with the tool was very positive, and we quickly found an option that allowed us to present the unfolding of the story by adding different “layers” to Snow’s original map, which depicts the Soho district. 
+Starting with the base, we added various colored data layers, such as the death toll addresses, the locations of water pumps, and finally, the spatial mean and standard distance. Alongside each new layer, we included bullet-point information that addresses the questions of the exercise. The story map proved to be highly effective in illustrating Snow’s method for demonstrating that cholera was spread through contaminated water, and that the disease’s “hotspot” was located near the Broadwick Street water pump. Furthermore, by looking at the story map on the Olympic Marathon from 1896 to 2020, we noticed some similarities with our own project. Here too, the story is told through maps, showing the marathon locations over time, along with the runner’s route and the time taken to complete the race. It’s an interesting way to trace the runner’s journey geographically. However, as the group that worked on it rightly pointed out, this type of story map carries certain risks, particularly the potential for anachronism. Thus, we learned that maps could serve as valuable historical sources and be useful in multidisciplinary fields like epidemiology, but they must always be viewed critically. 
+274 words
+
+Personally, I found this course and the exercise both engaging and insightful. While I already understood the importance of maps as historical sources, I learned that they can be applied in many other contexts as well. Moreover, working with the “StoryMaps” tool was enjoyable and proved to be a diverse way to present a historical event.
+
+
