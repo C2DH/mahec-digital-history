@@ -6,6 +6,12 @@ authors:
 date: 2024-10-15
 ---
 
+## Maps, 16/10/2024
+
+This 5th course taught us more about maps, and particularly the “StoryMaps” tool. After trying our best to represent the Belval campus on a map, we learned more about Geographic Information Systems (GIS), which are analysis and visualization tools that go beyond the simple creation of maps. 2 leading software packages exist: ArcGIS and QGIS. These programs enable to superimpose different layers of information. This course reminded me that maps are an essential tool for researchers and historians because of their considerable informative impact. In addition to star maps or location maps, there are also topographic maps, also known as reference maps and thematic maps.
+What I also learned was the difference between location and place. Place, unlike location, which acts as a landmark, is a kind of social construct. For example, we call our university campus in Belval “campus”, but people in the financial sector might refer to it as “Fond Belval”. It all depends on people's contexts and perspectives. 
+My group then focused on a project entitled “History of the Olympic Marathon, 1896-2020”, created using the interactive tool “StoryMaps”. In addition to the runners' personal details, the different durations of each winner's 42-kilometer race could be compared. This project, which highlighted the evolution of runners' performances, and the participation of women, did, in my opinion, raise questions about scale and physical representation. However, as a historian wishing to teach, I find that “StoryMaps” can make learning history livelier and more interactive for students, that way, enriching their educational experience.
+
 ## Online Newspaper Archives, 09/10/2024
 
 The course got off to an exciting start with the introduction of a new platform, “Impresso”, which highlights the importance of newspapers as witnesses to past knowledge, where valuable ideas are preserved. I was a little skeptical about its use and real utility. However, thanks to the group work, I was able to see that this tool could be complementary, especially when combined with resources such as eluxemburgensia. My colleague and I compared the results obtained by searching for our villages, “Saeul” and “Bascharage” respectively. Not understanding why the term “Saeul” had (many) more mentions in newspapers than “Bascharage” - even in non-Luxembourg newspapers - we soon realized that the searches were confusing “Saeul” with the German term “Säule”.
