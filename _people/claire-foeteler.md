@@ -7,3 +7,4 @@ subheading: Student
 title: StudentCF
 ---
 
+Student in Introduction to Digital History
