@@ -4,6 +4,6 @@ category: class
 group: collaborator
 ordering: Foeteler
 subheading: Student
-title: StudentAD
+title: StudentCF
 ---
 
