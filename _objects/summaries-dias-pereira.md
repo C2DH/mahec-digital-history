@@ -16,6 +16,7 @@ Just by comparing the maps we can connect links between historical events and th
 One thing we could maybe reproach to this storymap is maybe the used satellite map. Even if they ran those streets back then, I think that the city didn’t look exactly like on the satellite map they used. It might be an anachronistically map to the time the race took place. 
 We can conclude, that those kind of maps can be useful to give the public a visual representation of the track they had to run and how fast they ran marathons in time. 
 
+While looking at the story maps created by other groups, I decided to focus on the story map of John Snow. The group began with a brief introduction to John Snow. They then explained the types of information that each layer of their maps represented. Each layer contained different kind of data, such as the location of water pumps or the death toll. This serves as a good example of how GIS and the combination of different layers can provide answers to specific research questions.
 
 ---
 title: Session Summaries by Diana-Dias-Pereira
