@@ -58,4 +58,20 @@ Starting with the base, we added various colored data layers, such as the death 
 
 Personally, I found this course and the exercise both engaging and insightful. While I already understood the importance of maps as historical sources, I learned that they can be applied in many other contexts as well. Moreover, working with the “StoryMaps” tool was enjoyable and proved to be a diverse way to present a historical event.
 
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-5
+authors:
+  - Ricci-0210959012
+date: 2024-10-26
+---
+
+## Networks and Palladio, 23-10-2024
+This course was dedicated to the importance of networks in historical research. To introduce us, as networks are flexible, we used the example of a wedding guest list, where we encountered our first technical terms such as “Reciprocity”, “Ego-Network”, and “Network Boundaries”.  By visualizing the table arrangements based on “Attributes” like age or relationship status, and through examples of conversations, we realized that there can be numerous, or even very few, connections within a table. We learned the significant role of a “Broker”, who can pass information from one table to another, thereby creating a link between the two. 
+To continue the course, we saw map examples that illustrate networks, such as Facebook friends, where we observed that China and Russia have their own networks, and in parts of Africa where there are no people or internet, these areas appear as blank spaces. Hence, maps can be, once again, interesting but can also be overwhelming at times, which is why data visualization is valuable. We then looked at historical research examples, such as the rise of the Medici family to power, Gestapo interrogations in Cologne, and the Jewish support network during World War II. We saw that data visualization allows historians to uncover connections they may have overlooked or not noticed, pushing them to explore individuals further and recognize their significance, as Prof. Düring did in his PhD with Walter Heymann. 
+To conclude, we were able to create our own network on Palladio, a digital tool for visualizing and analyzing data using various instruments Kenan and I focused on the relationships forged in New Caledonia during our mobility semester.
+269 words
+
+Personally, I found this course very entertaining and well-structured. Moving from basic examples to maps and then to data visualizations in historical research was enjoyable and easy to understand. Even though there is still a vast field to explore, using Palladio was also enjoyable, and the course was highly engaging and interesting.
+
 
