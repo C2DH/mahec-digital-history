@@ -54,7 +54,7 @@ We did an exercise where we drew a map of our campus and the results varied. The
 
 ---
 title: Session Summaries by Emilie-Furtado
-abstract: Summary-4
+abstract: Summary-5
 authors:
   - emifurtado
 date: 2024-10-23
