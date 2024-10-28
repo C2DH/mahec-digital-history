@@ -62,3 +62,15 @@ date: 2024-10-22
 The course on the 16th of October 2024 was about maps and was given by Eliane Schmid. I worked with three other students on the John Snow map. It was the first time I created a story map, and I was surprised that it was not as difficult as I had always imagined. The John Snow map was produced by Dr. John Snow. His map shows the cholera outbreak in London in 1854. He was the first to recognize that the disease did not spread through contaminated air but through contaminated water. Moreover, his map is a good introduction to GIS, as it allows the cartographer to experiment with different layers. We used only five layers, which helped us a lot because we were only dealing with a manageable number of layers. This allowed us to fully understand the function of each one. Additionally, I learned how to create a story map myself and how to apply different layers to highlight various aspects. For example, the water pump layer displayed all the water pumps in the area, which helped us connect the dots between the death toll addresses and the pumps. While making the story map, I also became convinced that using maps in general helps narrate a story more clearly and understandably. The interplay between text and maps engages the reader, making the experience more playful and interesting. Overall, it was a good first introduction to creating story maps.
 
 
+---
+title: Session Summaries by Kenan-Korac
+abstract: Summary-5
+authors:
+  - Korac-0210945149
+date: 2024-10-23 
+---
+
+## Networks & Tool 5 'Palladio'/'Vistorian', 23.10.2024
+Course number 6 covered networks and tools like ‘Palladio’ and ‘Vistorian’, which are specialized for creating, or rather visualizing, networks. The advantage of network visualization is that it helps the creator see their information more clearly, which can be very helpful, especially because they may identify networks or connections they hadn’t previously noticed, as well as other details like the density and different types of networks. In other words, network visualization can reveal overlooked aspects or patterns that might not be immediately apparent. Another significant benefit is that networks can be applied to any topic, allowing any subject to be represented by a graph. 
+Network visualization also offers the ability to query what is not shown, helping to understand why certain elements are missing from the display. In network analysis, theory and method are not separate, which can be challenging, especially for students encountering the material for the first time. Fortunately, our professor explained the theory, terminology, and concepts used in network analysis, such as ego network, broker, unipartite network, and bipartite network, through practical demonstration at the start of the course. He illustrated these concepts using the example of a wedding, starting with the creation of a guest list, then moving to seating arrangements, and finally the table conversations. Through this example, he effectively conveyed the theory and terminology behind network analysis in a simple and understandable way.
+
