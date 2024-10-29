@@ -1,10 +1,19 @@
 ---
-title: Session Summaries by Schmid Eliane
-abstract: 
+title: Session Summaries by Marten Düring
+
 authors:
   - dias-pereira-id
-date: 2024-10-16
+date: 2024-10-23
 ---
+
+## Networks and Palladio,23rd of October 2024
+
+Last week, we had a class about networks, their purposes, and how they can be useful for research. Prof. Marten Düring explained how networks work using the example of a wedding. By examining the seating arrangements of different guests and categorizing groups, we can establish links, differences, and similarities among guests, each of whom represents a node within the network. Just as with the guests, the general concept of networks operates similarly. 
+
+We were also introduced to Palladio, a platform for creating networks from an Excel table. I personally think it’s an excellent tool for historical research, regardless of the field. It can be used to map connections between people, concepts, or historical events. Tools like Palladio provide a visual representation of connections or relationships between concepts, people, events, ideas, and more. This approach offers an abstract way to visualize and categorize different kinds of information.
+
+We students also had the opportunity to try the Palladio platform, and I used it with the show Breaking Bad to explore the relationships between different characters and how they’re linked to each other. While this example may not have historical significance, you could apply it to more important and historically relevant examples.
+
 
 ## Maps, 16th of October 2024
 
