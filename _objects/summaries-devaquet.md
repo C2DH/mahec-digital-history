@@ -76,7 +76,7 @@ authors:
 date: 2024-10-31
 ---
 
-## [Networks & Tool 5 “Palladio”/ “Vistorian], [30.10.2024]
+## [Hands on History: EU Parliament Archives], [30.10.2024]
 In the lecture from October 30, 2024, titled “Hands on History: EU Parliament Archives,” Ludovic Delepine and Marco Amabilino discussed their work on the historical archives of the European Parliament, which are now available online and include the use of AI. The project started within the archives. The aim was to make millions of documents more visible and accessible. 	
 As an introduction, they spoke about Edgar F. Codd, who was one of the first to create relational databases, laying the foundation for modern data systems. They then explained the role of HP and Google, which made breakthroughs in optical character recognition (OCR) engines for various operating systems. The importance of Sparck Jones was also highlighted—she worked on term frequency-inverse document frequency (TF-IDF), a technology that underpins most modern search engines.	
 On the website of the European Parliament’s Historical Archives, users can search for documents by metadata. In the dashboard, they can filter by type, language, and year. There’s also a function called “Ask the EP Archives?” which allows users to ask questions and receive immediate, text-based answers. Their goal was to ensure these answers are grounded in documents from the European Parliament and drastically reducing the risk of AI “hallucinations.” 	
