@@ -66,3 +66,19 @@ In the course on 23 October 2024 entitled ‘Networks & Tool 5 “Palladio”/ �
 Someone who has many connections in the social network has a so-called high degree. A single connection is in turn called a single degree. Then there is also the so-called broker, who represents the bridge between two networks. This gives it an influential position, as it determines what it can transfer from one network to the other. If two nodes are connected by a third element, such as an event, this is referred to as a bipartite network. The type of connection is an affiliation. In the case of a direct connection, we speak of a unipartite network. This time the connection is called interaction. People with many relations find it easier to establish further relations. Networks can create specific dynamics based on their composition. 	
 The term network can be applied to many concepts. We looked at some examples of networks. These included Facebook friendships, a street network and the network of a communist resistance in Cologne. But there are many more that are not related to anything social. The terms diameter, density, degree centrality and their various types were also explained. However, all of this would be too extensive to explain in this summary.
 Afterwards, we did a group work in which we were able to create a fictitious network ourselves using Palladio.
+
+
+---
+title: Session Summaries by Jo Devaquet
+abstract: 'Summary 6'
+authors:
+  - Jo Devaquet-0191486141
+date: 2024-10-31
+---
+
+## [Networks & Tool 5 “Palladio”/ “Vistorian], [30.10.2024]
+In the lecture from October 30, 2024, titled “Hands on History: EU Parliament Archives,” Ludovic Delepine and Marco Amabilino discussed their work on the historical archives of the European Parliament, which are now available online and include the use of AI. The project started within the archives. The aim was to make millions of documents more visible and accessible. 	
+As an introduction, they spoke about Edgar F. Codd, who was one of the first to create relational databases, laying the foundation for modern data systems. They then explained the role of HP and Google, which made breakthroughs in optical character recognition (OCR) engines for various operating systems. The importance of Sparck Jones was also highlighted—she worked on term frequency-inverse document frequency (TF-IDF), a technology that underpins most modern search engines.	
+On the website of the European Parliament’s Historical Archives, users can search for documents by metadata. In the dashboard, they can filter by type, language, and year. There’s also a function called “Ask the EP Archives?” which allows users to ask questions and receive immediate, text-based answers. Their goal was to ensure these answers are grounded in documents from the European Parliament and drastically reducing the risk of AI “hallucinations.” 	
+At the end of the presentation, there was a Q&A session. Ludovic Delepine and Marco Amabilino addressed various questions, including on the trustworthiness of AI in archival practices, emphasizing that it will always require critical evaluation by the user, whether they are a jurist, political scientist, or historian.
+
