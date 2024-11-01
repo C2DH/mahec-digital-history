@@ -74,4 +74,20 @@ To conclude, we were able to create our own network on Palladio, a digital tool 
 
 Personally, I found this course very entertaining and well-structured. Moving from basic examples to maps and then to data visualizations in historical research was enjoyable and easy to understand. Even though there is still a vast field to explore, using Palladio was also enjoyable, and the course was highly engaging and interesting.
 
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-6
+authors:
+  - Ricci-0210959012
+date: 2024-11-01
+---
+
+## EU Parliament Archives, 30-10-2024
+This course focused on a lecture presented by Ludovic Delepine and Marco Amabilino about the digital archives of the European Parliament and the integration of AI in research. Their primary mission is to democratize access to millions of documents, including legislation, resolutions, positions, and negotiations with other institutions, which previously had to be consulted on-site upon request. These archives cover the period from 1952 to 1994, in accordance with the “30-year rule”, and the developers emphasize the importance of trust and reliability. Crucially, the AI used relies solely on documents within its database to provide responses, significantly reducing the risk of “hallucinations”.
+The presenters then discussed notable contributions in the field of IT, such as Edgar F. Codd’s establishment of the theory of data management in tables and their relationships in 1970; the role of Google in advancing OCR technology; Sparck Jones’s essential work on measuring term frequency within documents in 1972; and other advancements, including those by Mikolov and recent developments in generative AI, such as ChatGPT, since 2020. They also introduced the dashboard of the EP Archives, which allows researchers to search for documents by metadata, filtering by language, type and year. Additionally, they presented tools like “Ask the EP Archives?”, a question-and-answer tool, a “similarity search”, which retrieves documents with similar keywords based on “confidence” scores, along with other tools we outlined in our homework on the dashboard.
+During the Q&A session, certain limitations were highlighted, such as concerns about the reliability of AI in archival practices, the spread of misinformation, and challenges related to the multitude of languages, particularly Romanian, which the AI struggles with, often providing responses in English instead. Moreover, the limitations of available documents are confined to those of the European Parliament.
+289 words
+
+I personally found this presentation to be very interesting and enlightening, though I also found It somewhat challenging to follow due to the abundance of technical terms primarily related to IT and AI, areas with which I am still becoming familiar. However, the presentation was engaging, and I truly appreciated the talk-and-show method employed by the presenters.
+
 
