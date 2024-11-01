@@ -75,7 +75,9 @@ authors:
   - emifurtado
 date: 2024-10-30
 ---
-## EU Archive, 30-10-2024
+
+## EP Archive, 30-10-2024
+
 For this class, we received a presentation from Ludovic Delepine and Marco Amabilino from the European Parliament Archives. First, we were introduced to the team and then we watched a video that we had to see before the lesson. In the presentation, they explained the steps they had to take in developing the website. First, they wanted to make the documents managed by the Parliament more visual and accessible. Previously, the only way to access the documents was by email or in person. Technically speaking, they are a small team. They wanted to solve this problem digitally, so they needed a server and at the same time, the documents should be accessible from anywhere from now on. That's how Archibot was born. Important figures were introduced such as Edgar F. Codd. In the beginning, documents were just pics because they were scanned. Now they need a solution to make the characters readable/recognizable. Another important figure who was introduced is Gerard Salton.
 Next, we learn that metadata is generated = deep learning. A model is trained to generate metadata.
 Next, they developed their own "ChatGPT" = "Ask the EP Archive". The idea was to create a simple search file where you can ask questions and get an answer. It works in different languages and you get the answer in the language you ask in, even if the document is not available in the same language. ChatGPT is unreliable and sometimes gives made-up answers. They create a prompt that says it is unable to answer a question. They have also added to the system that it should not engage in discussions. The data is not shared, everything stays in their system and runs there. The system selects the 10 most important documents. If you want all the documents on a topic, you have to search yourself. We were also advised not to enter any personal data into the system.
