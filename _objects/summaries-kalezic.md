@@ -33,9 +33,11 @@ This course taught me how Social Network Analysis clarifies complex social syste
 ## Summary Session 7, 30 October 2024
 
 Summary: 
+
 In the seventh session of the course, we explored the groundbreaking role of artificial intelligence (AI) in the European Parliament’s digital archives, guided by Ludovic Delepine and Marco Amabilino. Beginning with a video, we learned how AI is reshaping access to over a million documents, covering the years 1952 to 1994, honoring the “30-year rule” that makes documents over three decades old available to the public. These archives are not just a record of history but a trusted source, vital for researchers and the public. A turning point came in 2007 when Google’s push toward open-source software brought serious advancements in document processing, a shift that deep learning later amplified. This allowed for unprecedented precision in extracting and interpreting historical data. Google’s 2017 breakthrough even transformed text into numerical data, enabling AI to identify patterns and word associations more effectively. Lady Sparck Jones, a visionary in AI and language processing, was a key figure in this journey. Her pioneering work, especially her 1972 “Inverse Document Frequency” algorithm, became foundational in shaping modern search tools. This technology allows users to retrieve relevant documents by identifying frequently occurring terms, making historical data far more accessible. The Parliament’s new tools, like the “Ask the EP Archives” feature, echo recent innovations like ChatGPT but provide responses strictly based on verified archives. Unlike ChatGPT, which can sometimes generate unsound answers, “Ask the EP Archives” is designed solely to respond based on factual documents within the archive, enhancing educational research and transparency while fostering trust in these invaluable historical records.
 
 I found the course on AI in Parliaments fascinating, especially in how AI can revive historical archives and improve accessibility across languages. However, understanding deep learning’s role in metadata classification was challenging.
+
 
 
 European Parliament Archives:
