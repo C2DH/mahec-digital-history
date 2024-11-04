@@ -1,5 +1,5 @@
 ---
-title: Session Summaries by Eliane Schmid
+title: Session Summaries by Diana-Dias-Pereira
 
 authors:
   - dias-pereira-id
@@ -27,7 +27,7 @@ III.	Questions
 
 
 ---
-title: Session Summaries by Marten Düring
+title: Session Summaries by Diana-Dias-Pereira
 
 authors:
   - dias-pereira-id
