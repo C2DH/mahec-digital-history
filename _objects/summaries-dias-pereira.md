@@ -8,14 +8,17 @@ date: 2024-10-30
 
 ## European Parliament's Archives, 30.10.2024
 I.	Summary of the dashboard
+
 The dashboard is divided into 5 types of graphs containing different amounts of numbers. The first shows the total number of documents in the European Parliament archives. The second is a circular chart with the documents sorted by language. It gives us an overview and a good view of the quantity of documents we have in different languages and perhaps helps us to visualize the importance of the creation of the European Archives and which countries contributed the most, such as France, Germany, Italy, etc. The third circular graph contains the different types of documents that can be found, they're divided into different colors and regroup categories, such as intervention orale, question écrite or proposition de resolution. The fourth bar chart groups the documents by year. Due to legislation and different policies, the EP Archives only have documents between the years 1952 and 1995. The last graph shows the number of documents by starting date, with an increasing number of documents in the early 1970s. 
 The records are divided into seven categories: fund, series, dossier, title, long title, PE number and reference code. As I'm not an expert on the EP archives (which might influence my perception of the dashboard), I still find it a bit difficult to find the specific information you might be looking for. For example, the funds are categorized as follows: EU.HAEU/AC. I personally can't say what kind of documents I'll find in this fund. It would be good if there was some kind of legend or table of contents explaining what kind of information could be found in the different fonds.
 
 II.	Summary of the session
+
 During the presentation of the European Parliament's archives on 30 October, Ludovic Délépine and Marco Amabilino talked about how artificial intelligence and the European Parliament's archives work hand in hand. They talked about the website and explained how we can access the different documents, for example by year or by topic. They mentioned Sparck Jones and the idea of introducing a tool that allows us to count the number of times a word appears in a document. This tool makes it possible to weight the importance of a particular word or document. They also mentioned the rules for archiving and explained why we can only consult documents from 1952 to 1995. I think it was good to have a presentation about such a tool, which can be useful for future research. However, at one point in the presentation, and especially during the discussion with experts in the field, I felt a little overwhelmed by the computer language, which I'm not so familiar with. But in general, it can be said that AI can be seen as a bridge to understanding history. As Marco Amabilino rightly said, we still have to be critical of the information given by AI and never stop analyzing and questioning the information it produces.  
 Words: 474
 
 III.	Questions
+
 1)	What are the dangers of AI in the European Parliament archives?
 2)	Is it possible to improve artificial intelligence to the point where it can conduct a critical analysis of sources, as historians do?
 3)	Is there any plan in the future to open archives for research students without restricting access?
