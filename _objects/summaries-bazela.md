@@ -39,4 +39,20 @@ During the session of the 9th of October, we discovered and learned how to use I
 The presentation of Impresso clearly demonstrated its strengths, but also its weaknesses. First and foremost, you must be careful to ask the site the right questions, so as not be misled: the selection of words, as well as the language and items selected in the search bar, must be done with precision, because as we saw during the course, non-exhaustive information can appear. Secondly, in a group work session, we were able to discover for ourselves the various functions of Impresso, by choosing a subject ourselves. The site’s main tool is the search bar, which can be used to carry out a more precise search using several filters such as years of production or newspaper titles. There is also a Ngram, which shows the dates of most publications. Two other functions are very interesting and relevant to a search: a comparator that lets you play with the filters to obtain concrete results, and a system that detects similarities in the writing of different texts.
 The discovery of Impresso was quite enriching and the way the site works enabled us to see the weaknesses of the site. Even though the site works well, it would be interesting to analyze the second version, which will probably contain more content.
 
-(273words)
+(273 words)
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-4
+authors:
+  - Bazela - 0210949110
+date: 2024-11-05
+---
+
+## Maps & Tool 4 'StoryMaps'
+During the session of the 16th of October, we learnt about the different types of maps, but above all about the importance of maps in historical research. After a brief presentation on the role of maps in general, we worked as a group to produce a StoryMap: this is an online interface that can be used to produce a quick visual presentation of content, in our case the analysis of a map. The map we analyzed was the John Snow Map, produced by the doctor of the same name, which helped to find the source of a cholera epidemic in a district of London in the 19th century. This map mainly showed us the importance of different layers of GIS, each of which can be used to represent other information and connect them together.
+
+As part of the group work, another team produced a StoryMap on Atlascine, a project designed to transcribe audiovisual content in map form. As one of the main sources is oral history, the aim of representing it using a map is to support it with a visual representation, in order to reinforce the story and make it easier to contextualize. However, it is important to note that the audiovisual content should remain the focus of attention, while the representation on a map should play a secondary role. Using circles of different colors, it is possible to listen to different stories with similar themes, and above all to see where they took place, but also to link the similar themes together by making a connection between the different towns or cities.
+
+(264 words)
