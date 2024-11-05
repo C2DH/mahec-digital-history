@@ -74,3 +74,32 @@ In his article, the author presents the importance and use of graphs, with the h
 Since I wasn't present at the course, I decided to follow the tutorial and make a simple diagram of a wedding guest list. After listing the different people with their first names and indicating the different relationships between them on an Excel document, I copied it onto Palladio: the resulting graph then represents the different links between the people, which allows you to see how and by whom the links are forged, but also to see that some people establish and group together more links than others.
 
 (257 words)
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-6
+authors:
+  - Bazela - 0210949110
+date: 2024-11-05
+---
+
+## Hands on History: EU Parliament Archives, 30/10/2024
+The Archives Unit Dashboard from the historical archives of the European Parliament was launched in December 2021. The platform contains more than two million digitalized documents from the years 1952 to 1994. The aim of this tool is primarily to democratize the history of the European Parlement, but also to give any person or researcher easy access to a multitude of sources. Let’s focus now on the interface itself, analyzing each of its functions in detail.
+
+First, you have the dashboard called “all documents”, where you can see an Overview Dashboard of all the documents provided. On this interface, there are several classifications, represented by bar or circle diagrams: there is a classification by language, a classification by type of document, a category representing the number of documents produced per year and the evolution of document production. 
+
+Next, we have the “content analysis dashboard”, which shows a selection of the main terms frequently used in the various documents. On this page, we also have one diagram representing the number of documents grouped by a dominant topic: if we, for example, select the term “European Commission”, a second diagram appears which shows the numbers of documents by year, but also different subtypes to help the research of other documents. On this dashboard, we also have some additional tools, like the section “ask the EP archives”. In this section, you can ask a question to a generative AI, which will give you an answer to your question based on the documents provided by the archives. In addition, the AI will also indicate you from which documents the information are coming from.
+
+Then there is a third interface, called the ‘Archives received requests dashboard’. Firstly, this tool uses a world map to show which countries are making the most requests. A circle diagram also shows which specific organizations the requests come from: a second diagram of the same type shows the number of requests per year.
+
+Finally, a last interface offers two very practical tools, one of which consists of summarizing the content of a document, for example. It is also possible to specify the number of words that the interface should use to produce this summary.
+
+The interface to the European Parliament's historical archives is initially rather clear and instinctive. However, some tools are easier to use than others. On this subject, some questions could be asked:
+
+1. What are the risks of using artificial intelligence for archival research?
+2. What are the limitations of the interface according to the creators and what can or are they improving?
+
+During the course on the 30th of October, the session consisted of a lecture on the presentation of the archives of the European Parliament, as well as an introduction to the Archives Unit Dashboard by two creators of the program. After the lecture, the students could ask some questions about the dashboard and the archives of the European Parliament. The presentation and the discussion were very interesting, however, in my opinion, the subject itself is very technical, and I had some difficulty following the discussion.
+
+(511 words)
