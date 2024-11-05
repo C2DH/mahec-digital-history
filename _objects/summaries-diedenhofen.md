@@ -51,6 +51,7 @@ Creating different tables with nodes, relationships and attributes was the bigge
 
 ## EU Parliament Archives, 30/10/2024
 Review of the dashboard:
+
 The digital archive of the European Parliament provides public access to documents from 1952 to 1994. The archive dashboard makes it possible to search for relevant documents by organising historical records with specific filters.
 The first thing I noticed while browsing the European Parliament's digital archive was that no search queries are saved anywhere, or you can't go back to previous searches. This is probably due to the anonymity of the platform. With regard to the search function, however, it should be noted that you are offered a variety of possible filters to find a specific group of documents. The search is therefore greatly simplified by implementing search functions according to language, date, type of document or to which parliamentary body the document belongs.
 One function that I find very useful is the implementation of a kind of chatbot called ‘Ask the EP Archives’ which answers questions based on the documents available in the digital archive. For another course, for example, I was able to use this function to obtain archive documents concerning my topic of Euroscepticism.
@@ -58,6 +59,7 @@ As you can read in my question 5 below, I have to be honest and say that I reall
 In addition to the implementation in the following years of further years of documents which may not yet be published due to the 30-year regulation, it would certainly also be useful in the future to be able to search for picture sources or audio sources in this digital archive.
 
 Summary of the lecture and discussion:
+
 The lecture was given by Ludovic Delepine and Marco Amabilino, from the Archives of the European Parliament. This archive offers the possibility to view documents since 1952 and to make them accessible to the general public in a simplified way through a digital archive. However, it must be mentioned that the available documents only go back to 1994, due to the data protection regulation that documents may only be published after 30 years. One interesting point was their explanation of how they can export text from scanned documents. An AI is used here which can export these texts using deep learning. In addition, the digital archive makes it possible to offer several similar thematic documents based on tokens in a document. Nevertheless, it should be noted that the introduction to the presentation was perceived as interesting. However, as the presentation progressed, the thread was increasingly lost, which can be attributed to the extensive use of technical terms and the limited prior knowledge of the subject area. The few questions that were not asked by us students were also very specific questions, the content of which I did not fully grasp. As a result, it was too difficult and too incomprehensible for me to understand what the final discussion was about.
 
 Prepared questions:
