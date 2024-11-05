@@ -50,9 +50,27 @@ authors:
 date: 2024-11-05
 ---
 
-## Maps & Tool 4 'StoryMaps'
+## Maps & Tool 4 'StoryMaps', 16/10/2024
 During the session of the 16th of October, we learnt about the different types of maps, but above all about the importance of maps in historical research. After a brief presentation on the role of maps in general, we worked as a group to produce a StoryMap: this is an online interface that can be used to produce a quick visual presentation of content, in our case the analysis of a map. The map we analyzed was the John Snow Map, produced by the doctor of the same name, which helped to find the source of a cholera epidemic in a district of London in the 19th century. This map mainly showed us the importance of different layers of GIS, each of which can be used to represent other information and connect them together.
 
 As part of the group work, another team produced a StoryMap on Atlascine, a project designed to transcribe audiovisual content in map form. As one of the main sources is oral history, the aim of representing it using a map is to support it with a visual representation, in order to reinforce the story and make it easier to contextualize. However, it is important to note that the audiovisual content should remain the focus of attention, while the representation on a map should play a secondary role. Using circles of different colors, it is possible to listen to different stories with similar themes, and above all to see where they took place, but also to link the similar themes together by making a connection between the different towns or cities.
 
 (264 words)
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-5
+authors:
+  - Bazela - 0210949110
+date: 2024-11-05
+---
+
+## Networks & Tool 5 'Palladio'/'Vistorian', 23/10/2024
+Due to my absence from the course on the 23rd of October entitled ‘Networks & Tool 5 'Palladio'/'Vistorian', my summary consists of reading Marten Düring's text entitled 'From Hermeneutics to Data to Networks: Data extraction and Network Visualization of Historical Sources ’ and carrying out my personal experiment with Palladio.
+
+In his article, the author presents the importance and use of graphs, with the help of which we can, for example, represent constellations of relationships between different entities and bring out complex structures from a text, for example. At the beginning of the text, the author presents the example that he uses throughout the text, which is the case of the Jew Ralph Neumann: the graph produced can therefore be used to represent the network of people who helped him and his sister during their lifetime in Berlin from 1943 to 1945. The text then goes on to present a tutorial to help you understand the basics of Palladio and explains, in several steps, how to create a graph.
+
+Since I wasn't present at the course, I decided to follow the tutorial and make a simple diagram of a wedding guest list. After listing the different people with their first names and indicating the different relationships between them on an Excel document, I copied it onto Palladio: the resulting graph then represents the different links between the people, which allows you to see how and by whom the links are forged, but also to see that some people establish and group together more links than others.
+
+(257 words)
