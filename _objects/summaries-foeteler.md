@@ -3,6 +3,42 @@ title: Session Summaries by Claire Foeteler
 abstract: 'Bla bla bla'
 authors:
   - foeteler-id
+date: 2024-10-04
+---
+
+## [Summary of the third session], [02.10.2024]
+<!--one to two paragraphs of text summarizing the session-->
+
+<!-- create such a section for each weekly summary-->
+
+This session was structured differently than the last one. In the beginning we were told the
+program of the session and that there would be an election for the student representative for the
+MAHEC. After this, Madame Papastamkou gave us an explanation of the following group work
+that had to be done in class. We had to form groups and chose a topic to work on for around 30
+minutes to be able to present it to the class afterward. My group chose the third assignment
+surrounding the archiving of the website “Luxembourg.lu”. I found this very interesting because
+we could actively familiarize ourselves with a new topic. I have never worked with an internet
+archive and the Wayback machine was also a new tool for me.
+During our group work, we could see the evolution of this page over the years, and we could
+recognize some important changes. In comparison from the first capture to the most recent one,
+we could see that it looked way more modern, and the colours of the national flag are
+omnipresent. You also have the possibilities to change the language and the whole site is filled
+with information for tourists. In addition, the viewer of the website can also enlarge his
+1
+FOETELER Claire MAHEC Introduction to Digital History
+knowledge about the Luxembourgish history but also get to know our traditions and culture.
+With the Wayback machine my group could analyse different statistics and could see various
+diagrams based on data.
+Overall, I liked this session, because we could work on something hands on and understand the
+importance and the frequency of data and metadata. I will include the Internet archive in my
+research for different projects, because I think it is something very special and I think it is
+important to see how things evolve over the years.
+Words: 297
+---
+title: Session Summaries by Claire Foeteler
+abstract: 'Bla bla bla'
+authors:
+  - foeteler-id
 date: 2024-09-25
 ---
 
