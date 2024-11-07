@@ -1,5 +1,26 @@
 ---
 title: Session Summaries by Diana-Dias-Pereira
+abstract: 
+authors:
+  - dias-pereira-id
+date: 2024-11-6
+---
+
+## DH THEORY, 06.11.2024
+
+In today’s class, we started discussing the U.S. elections. I thought this was actually a good transition to talk about the importance of fact-checking and fake news, given that the new president of the United States is experienced in this area. This discussion gave us, as students, an opportunity to express our thoughts on the whole situation.
+
+In the second part of the class, we talked about the DH Theory and the Holocaust trial of David Irving v. Penguin and Lipstadt. Prof. Düring explained the case to us, describing how David Irving had published a book about the destruction of Dresden. In his book, he falsified the victim numbers and made several claims, including that Hitler never ordered the Holocaust. Deborah Lipstadt responded to his publications by publishing her book Denying the Holocaust, where she argued that Irving was a dangerous spokesperson. Irving didn’t accept this criticism and took her to court. While it may seem easy to prove that the Holocaust occurred, the case illustrates that it’s more challenging than one might expect, as it requires a review of all archival documents that Irving consulted.
+
+This example served as a transition to the third part of the class, where we discussed how to apply similar scrutiny in data-driven research. Prof. Düring gave us five steps to follow: selecting the data, modeling it, normalizing it, linking it, and, finally, classifying it. We had to apply this model on our Palladio example, I did it with my Breaking Bad example. 
+-	I selected the characters I remembered from the entire series. Since there were many characters, I chose only the most important ones. I also used Wikipedia as a reference. The timeframe covered is six seasons.
+-	The modeling approach was person-to-person. Each character has attributes such as being alive, dead, involved in the drug business, or not. Each edge represents a link, specifically a relationship between characters.
+-	For the normalization, I decided to write the whole name of each character, as there are instances of similar names, like Walter White and Walter White Junior.
+-	The two main characters, Jesse Pinkman and Walter White, are linked through their involvement in the drug business.
+-	I classified the data by grouping relationships and levels of sympathy. This includes categories for relationships, like "related to" or "work with," and for sympathy, such as "likes" or "doesn't like."
+
+---
+title: Session Summaries by Diana-Dias-Pereira
 
 authors:
   - dias-pereira-id
