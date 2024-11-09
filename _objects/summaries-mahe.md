@@ -7,12 +7,9 @@ date: 2024-10-11
 ---
 
 ## [2nd Session], [25.09.2024]
-<!--one to two paragraphs of text summarizing the session-->
 
 As a new student at the University of Luxembourg, more than a decade after earning my bachelor’s degree, the introductory course to digital history is quite challenging for me. Despite having taken an introductory course on information and communication techniques at ULB with Prof. Dr. Seth van Hooland, I must admit that I am not very familiar with new technologies. I have mostly relied on research using index cards, although I must acknowledge that the first time I accessed a source through the BNF’s online catalog, I was impressed. Not having to go to the precious reserve and wear gloves was a real pleasure and provided me with a comfortable and welcome working environment. The course itself on data and metadata was interesting and opens up possibilities. I see this seminar as a toolbox. I don’t know how to use these tools yet, and it will undoubtedly be a painful learning process, but with an interesting outcome: saving time and not having to manually write a bibliography or footnotes, which is probably more painful than learning the tools.
 I will end with a question about data and metadata themselves: is having almost exhaustive data always a good thing for historians? Isn’t it the “natural” selection of what has been transmitted to us that sometimes makes the research process interesting? If a document has reached us, it is because it was of some importance. Was there any clear manipulation? Why are they unavailable? This is obviously a question to be approached with caution and nuance, but I sometimes feel overwhelmed by a torrent of information when it comes to digital history.
-
-<!-- create such a section for each weekly summary-->
 
 ## [3rd Session], [02.10.2024]
 
@@ -64,3 +61,11 @@ Questions
 3. Does the thirty-year legal delay pose a democratic problem? As an emanation of democracy, shouldn’t part of the archives be available to citizens within a more “reasonable” timeframe?
 4. How is AI formatted to avoid biases and ensure the objectivity of search results?
 5. How are documents technically digitized? I imagine this varies depending on the era, but are scanners still used, for example?
+
+[8th Session], [06.11.2024]
+
+The session on the reconstruction of sources and the application of historical criticism to digital history was an exemplary introduction. Although I am not aiming for a career in teaching, the way the debate was introduced following a burning current issue kept the entire class engaged.
+The core of the course itself was particularly accessible, especially compared to the article “Data Scopes for Digital History Research” by Rik Hoekstra and Marijn Koolen, which I found complicated.
+Historical criticism faces new challenges. I was struck by the difficulty of reconstructing a very simple model on Palladio. With a more complex system, it must be very complicated, hence the importance, regardless of the field or historical research method used, of employing a rational and strict methodology. The importance of appendices and referencing sources and archival collections, along with the “FAIR” method, acts as a mimicry regardless of how historical narratives are created. Since digital history is relatively recent, it is not surprising to see these ethical issues arise, which inevitably lag behind.
+On a more personal note, the “Findable” and “Accessible” aspects made me question the “feasibility” of my master’s thesis. Protecting my sources is crucial, given the subject matter, and there will inevitably be witnesses I cannot reveal. Legal and methodological questions will quickly come to mind regarding this work.
+
