@@ -90,4 +90,19 @@ During the Q&A session, certain limitations were highlighted, such as concerns a
 
 I personally found this presentation to be very interesting and enlightening, though I also found It somewhat challenging to follow due to the abundance of technical terms primarily related to IT and AI, areas with which I am still becoming familiar. However, the presentation was engaging, and I truly appreciated the talk-and-show method employed by the presenters.
 
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-7
+authors:
+  - Ricci-0210959012
+date: 2024-11-09
+---
+
+## DH Theory, 06-11-2024
+To introduce this course, we each shared our thoughts on the U.S. presidential election won by Donald Trump. Given his frequent criticism of the media, we discussed how to discern the truth of information. To transition into the course material, we examined author David Irving, who falsified information about the destruction of Dresden, and most notably, claimed that Hitler was unaware of the Holocaust, with later even stating that it never happened. For this, Irving was widely criticized by numerous historians, including Richard Evans, and Deborah Lipstadt, who directly countered his Holocaust denial. After years of rigorous work revisiting archival documents for validity, analyzing his speeches, personal archives, and publications, it was finally possible to prove in court that he was deliberately faking evidence and drawing false conclusions, highlighting that, although it should be easy to prove someone wrong, it often isn’t.
+This led us to the question: how can one prove that a historian has deliberately falsified history and primary source evidence? Building on this question, we applied these ideas to data-driven research, notably the databases we created two weeks earlier in Excel and Palladio, following five key steps of digital history theory: Selection (choosing or excluding data); Modelling (structuring and conceptually representing data); Normalization (standardizing data for consistency and comparability); Linking (establishing connections between data from different sources); and Classification (grouping data into coherent categories). Finally, we reviewed the F.A.I.R. principles, which all historians should follow to make data “findable”; “accessible”, “interoperable”, and “reusable”.
+246 words
+
+Personally, I found this course engaging, as discussing current events isn’t common in an academic setting, and it was enriching, especially as a transition into the topics of falsified historical narratives and digital history. The course was well-organized, and the group work at the end, which allowed us to review our database, was also valuable.
+
 
