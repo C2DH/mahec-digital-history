@@ -68,3 +68,14 @@ Prepared questions:
 3.	Are there any particular difficulties or advantages that should be considered when processing historical archives from different eras, such as medieval or early modern documents compared to those from the 20th century (European Holocaust Research Infrastructure – EHRI)?
 4.	Could it be a disadvantage for future generations if they work primarily with AI and immerse themselves less in historical research and source criticism?
 5.	I am having problems with the “content-analysis” dashboard. I don’t quite understand how the intertopic distance visualization works and what function it has to provide me with information.
+
+## DH Theory: Criticisms; Transparency; Reproducibility/Documentation, 06/11/2024
+This week's course was about DH Theory. At the beginning, the question ‘How do we know what is true?’ was asked. This was based on the example of David Irving, who was found to have deliberately spread fake news in his works and also denied the Holocaust. Such an example raises the question of how it is possible to prove that a historian deliberately fakes information and news.
+
+We are able to prove bad historical scholarship based on written records. There is also a method that can be used to prove this for data-driven research. This method makes it possible to track data-driven research and thus prove whether it is correct. This method consists of 5 steps.
+
+Selection is the process of choosing which data to include or exclude from your analysis. Modeling refers to how you structure and represent your data conceptually. Normalisation aims to standardize and represent the data conceptually. Linking aims to establish connections between different data elements or sources. And lastly, Classification groups data into meaningful categories.
+
+Based on these 5 steps, we should then document the network we created a few weeks ago with the aim of enabling someone else to obtain the same data later on.
+
+In a further step, there is also the term FAIR Data. This is a concept that states that research data must be easily findable, accessible, interoperable and reusable. The data must therefore not disappear (F), must be accessible (A), it must be possible to connect the data with another data set (I) and the data must generally be reusable for interconnectivity with other data sets (R).
