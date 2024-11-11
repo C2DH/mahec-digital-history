@@ -1,5 +1,5 @@
 title: Session Summaries by Claire Foeteler
-abstract: 'Bla bla bla'
+abstract: 
 authors:
   - foeteler-id
 date: 2024-11-06
