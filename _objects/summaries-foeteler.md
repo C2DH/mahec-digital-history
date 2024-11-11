@@ -1,3 +1,14 @@
+---
+id: claire-foeteler 
+category: class 
+group: collaborator
+ordering: foeteler
+subheading: Student
+title: Claire Foeteler 
+---
+
+
+
 title: Session Summaries by Claire Foeteler
 abstract: 
 authors:
