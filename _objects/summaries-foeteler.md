@@ -1,3 +1,16 @@
+title: Session Summaries by Claire Foeteler
+abstract: 'Bla bla bla'
+authors:
+  - foeteler-id
+date: 2024-10-30
+---
+
+## [Summary of the seventh session], [30.10.2024]
+<!--one to two paragraphs of text summarizing the session-->
+
+<!-- create such a section for each weekly summary-->
+
+
 
 title: Session Summaries by Claire Foeteler
 abstract: 'Bla bla bla'
