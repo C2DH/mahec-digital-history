@@ -1,3 +1,20 @@
+
+title: Session Summaries by Claire Foeteler
+abstract: 'Bla bla bla'
+authors:
+  - foeteler-id
+date: 2024-10-16
+---
+
+## [Summary of the fifth session], [16.10.2024]
+<!--one to two paragraphs of text summarizing the session-->
+
+<!-- create such a section for each weekly summary-->
+This session was held by Eliane Schmid and for this class we had to read and analyse an article and write a short reflexion on it. The class started by discussing our homework and brought even more forward the importance of maps. Then we got an introduction in the topic of maps and on different tools and apps that can be used to create a map. Later, we were divided into groups and had to work on a specific project. My group had to work on the story map of the Olympic marathon over the years. The article showed the different marathon routes from 1896 to 2020 and showed the names of the winners, the time they ran and a text that describe the race, the winner and the conditions. The maps were interactive, and one could project oneself into the different marathons. But the maps give away more information than just the marathons. During the first and second World Wars, no Olympic marathon took place, so no map, and in 1984, the first woman ran the first female Olympic marathon. Even if, those story maps were very well structured and interesting, they can also be critiqued. The use of satellite maps seems a bit anachronistic since the cities like Paris, have evolved during the years.
+The other groups had to focus on different topics that were still related to maps. One group had the John Snow map is constructed by different layers that each represent different data like the number of deaths and the locations of cholera. By separating or by adding all the layers, new data can arise and provide answers. 
+
+
+
 ---
 title: Session Summaries by Claire Foeteler
 abstract: 'Bla bla bla'
