@@ -3,6 +3,23 @@ title: Session Summaries by Claire Foeteler
 abstract: 'Bla bla bla'
 authors:
   - foeteler-id
+date: 2024-10-23
+---
+
+## [Summary of the sixth session], [23.10.2024]
+<!--one to two paragraphs of text summarizing the session-->
+
+<!-- create such a section for each weekly summary-->
+
+This session was held by Marten Düring. As a preparation for the class, we had to read an article written by him that explained Palladio and an introduction of a text. In addition, we should experiment a bit with Palladio to make us familiarized. I thought the text about Palladio was rather difficult and I had some struggles to really understand the system and make sense to new terms such as nodes and alteri. However, the explanation that was given to us to better understand how Palladio works was very logical, and it made complete sense. Marten Düring explained the system of networks and their purposes to us with the example of a wedding. The network we used, was the seating arrangements of a wedding with the different tables for the guest. The tables were established based on different factors such as relationship status, age and language to show links, similarities and differences between guests. Those represented a node in a network. This shows the different structures and networks of communication and how they can differ and change overtime.
+After the more theoretical part, we could ourselves “play” and work with Palladio with a subject of our choice. I choose my family and friends to create such a network representation. We worked with Excel and later pasted our data into Palladio to visualize connections between people, ideas and concepts. A phrase that stuck with me and that I will keep in mind for further works is: Any subject that you study can be shown into a graph. A graph can simplify a highly complex and large topic and represent it without the added difficulty of a text. 
+
+
+
+title: Session Summaries by Claire Foeteler
+abstract: 'Bla bla bla'
+authors:
+  - foeteler-id
 date: 2024-10-16
 ---
 
@@ -10,6 +27,7 @@ date: 2024-10-16
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
+
 This session was held by Eliane Schmid and for this class we had to read and analyse an article and write a short reflexion on it. The class started by discussing our homework and brought even more forward the importance of maps. Then we got an introduction in the topic of maps and on different tools and apps that can be used to create a map. Later, we were divided into groups and had to work on a specific project. My group had to work on the story map of the Olympic marathon over the years. The article showed the different marathon routes from 1896 to 2020 and showed the names of the winners, the time they ran and a text that describe the race, the winner and the conditions. The maps were interactive, and one could project oneself into the different marathons. But the maps give away more information than just the marathons. During the first and second World Wars, no Olympic marathon took place, so no map, and in 1984, the first woman ran the first female Olympic marathon. Even if, those story maps were very well structured and interesting, they can also be critiqued. The use of satellite maps seems a bit anachronistic since the cities like Paris, have evolved during the years.
 The other groups had to focus on different topics that were still related to maps. One group had the John Snow map is constructed by different layers that each represent different data like the number of deaths and the locations of cholera. By separating or by adding all the layers, new data can arise and provide answers. 
 
