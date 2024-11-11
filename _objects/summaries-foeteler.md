@@ -10,6 +10,14 @@ date: 2024-11-06
 
 <!-- create such a section for each weekly summary-->
 
+The session started with a discussion about the United States presidential election for presidency from 2024-2028. Most of the students shared their opinion on this topic, but I do not share everyone’s opinions, and some comments were in my opinion not right. We talked about Trumps “qualities” of talking and how he has the capabilities to manipulate people because he makes promises that he will not keep. We also talked about Kamala Harris and how some comments that were made by Republicans were sexist and illogical. 
+After this discussion, we started to talk about DH Theory. The professor started to session with the person of David Irving and how he used sources that way he needed them and started to twist the information. He was severely criticised by various historians such as Deborah Lipstadt in her book “Denying the Holocaust”. Irving didn’t accept this criticism and took her and the editor to court to sue them. To defend themselves, they had to 
+Another aspect of this session was again our project that we did with Palladio. We had to revisit our analysis project and focus on 5 steps of Selection, modelling, normalization, linking and classification. I worked on this together with Diana and we worked it out together and applied those 5 steps on our individual projects on Palladio. Here are the notes that I took: 
+-	Selection: chose the main characters that were there for more than one episode, I selected the most important for myself, sources from the watching of the series and some research on Wikipedia for basic knowledge, complete names and different seasons 
+-	Modelling: the nodes are people, person to person, edges: the work and the relationship status, 
+-	Normalization: only first names, first letter all caps 
+-	Linking: work, living situation and relationship status 
+-	Classification: related, worked with, in a relationship, dated, knows each other, friends and another was about sympathy, likes doesn’t like and neutral, professional and personal 
 
 
 
