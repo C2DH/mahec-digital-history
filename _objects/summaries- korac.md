@@ -102,3 +102,17 @@ Questions prepared before the session.
 4) Is the 'Ask the EP Archives' tool modelled on ChatGPT?
 5) The Archive Unit provides free access to the EP archives. Are there any restrictions, i.e. if you want to access a document, can you access all the documents online or do you have to go physically to the EP archives?   
 
+---
+title: Session Summaries by Kenan-Korac
+abstract: Summary 7
+authors:
+  - Korac-0210945149
+date: 2024-11-06
+---
+
+## DH:Theory,Criticism;Transparency;Reproducibility/Documentation, 06.11.2024 
+
+The course began in a rather unusual way, as it was the day of the US presidential election. And we witnessed the second election of Donald Trump as the new President of the United States.  During started the course by discussing our views, the students' views, on the election of Donald Trump. After twenty-five minutes of discussion, During made a smooth transition from Donald Trump and fake news to DH theory. The question we were asked was 'how do you know what is true'? As an example, During mentioned David Irving, author of several controversial books, e.g. The Destruction of Dresden. In his book he exaggerates the destruction of Dresden, and his thesis is based on forged documents. He later even denied the Holocaust. Irving has been heavily criticized by several historians such as Deborah Lipstadt. Nevertheless, the main question remained. How to prove that Irving had deliberately and knowingly falsified archival documents. After years of examining his works, speeches, notes and so on, investigators were finally able to prove his evil intent to deliberately manipulate documents. This led to the next question. How do you do this for data-driven research? How do you document your data so that it is considered valid and can be reused and reworked? This question can be answered by meticulously documenting the steps we take during our research. We need to explain why we include certain aspects in our research and not others.  Put simply, we need to explain our selection and the choices we have made. To illustrate this theory, we used the networks we had created the week before. We ended the session with the F.A.I.R. (Fidable, Accessible, Interoperable, Reusable) principles that every historian should follow.  
+
+
+
