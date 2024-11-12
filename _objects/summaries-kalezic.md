@@ -63,3 +63,14 @@ Questions:
 3. How might future generations of researchers benefit from the advancements in AI technology in archival work?
 4. What is the significance of the “30-year rule” for document access?
 5. What is the main challenge when managing a large number of documents?
+
+## Summary Session 8, 06 November 2024
+
+In the eight session of the course, we delved into crucial questions about historical truth, focusing on David Irving’s controversial scholarship. Irving, known for his claims that Hitler was unaware of the Holocaust and would have stopped it if he had known, insists he’s relying on primary sources. However, many historians have criticized him, showing that he manipulated documents to fit his agenda. This troubling approach highlighted the dangers of selective interpretation in historical research, raising questions about how we determine what’s true and the ethical responsibility historians bear.
+
+We also explored practical ways historians can make their research rigorous and transparent. Using tools like Palladio, we learned about the F.A.I.R principles, making data findable, accessible, interoperable, and reusable. Each aspect of F.A.I.R. is essential to preserving historical integrity. Findable data is structured and tagged in a way that allows it to be easily located and identified in archives, making it accessible to anyone who seeks it. Accessibility means the data must come with proper rights and permissions, ensuring that others can view, share, and build upon it. Interoperability is achieved when data is formatted in ways that allow it to connect with other sources. For example, we looked at how Joseph Stalin’s profile on Wikidata links across platforms to provide context. Finally, reusability is perhaps the most challenging aspect, as it requires that data be standardized (often in formats like XML) so that it can be effectively used and integrated into future research.
+
+From this course, I learned the critical importance of evidence verification in history. Reflecting on David Irving, mine opinion is that his approach is more than misguided. I think it’s harmful. The Holocaust is a horrific reality, not a topic open to revisionist interpretations or defenses of Hitler’s ignorance. Irving’s work feels like a disturbing obsession with excusing an indefensible figure. For me his narrative is both shocking and deeply offensive, an attempt to twist history that disrespects the memory of Holocaust victims and misleads future generations.
+
+
+
