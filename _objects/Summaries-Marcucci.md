@@ -98,3 +98,19 @@ Questions:
 •	How does AI affect how we decide which records to keep for the long term, and can it really take the place of human judgment in this process?
 
 •	How do mistakes made by those transcribing or managing documents in the EU Parliament Archives affect the accuracy and reliability of the historical record, and what impact do these errors have on the overall archival system?
+
+---
+title: Session Summaries by Chiara-marcucci
+abstract: Summary-7
+authors:
+  - Marcucci-0211287606
+date: 11/11/2024
+---
+
+## [DH Theory], [06/11/2024]
+<!--one to two paragraphs of text summarizing the session-->
+At the beginning of the session with Professor Düring, he asked us what we thought about the idea of Donald Trump defeating Kamala Harris in an election. I found it interesting to hear everyone's different perspectives, as well as the professor's take on the topic.
+
+After this discussion, we explored DH Theory, specifically focusing on the trial between David Irving and Deborah Lipstadt. Professor Düring explained that Irving’s book on the Dresden bombing distorted casualty figures and denied Hitler’s involvement in the Holocaust. Lipstadt Denying the Holocaust refuted Irving’s claims, leading him to sue and bring her to court. The case highlighted how proving historical events, like the Holocaust, requires a detailed review of archival materials and is more difficult to prove it than it sounds like, especially when false interpretations are involved. We then connected this idea to databases, discussing how historians ensure data reliability through processes like the selection of data, modelling, normalizing, linking and classifying it; all steps that are crucial for making network data a trustworthy research resource.
+
+After being introduced to these processes, Océane and I applied them to our Palladio project, specifically to our “Barbie Birthday” theme. Admittedly, we encountered several challenges in understanding and implementing the five key processes. Since our project was based on fictional attributes, it wasn’t immediately clear how to adapt these steps to our work. Nonetheless, I recognize that these processes are a valuable approach for making network data more reliable. Additionally, experimenting with the other projects was a fascinating experience.
