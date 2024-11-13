@@ -6,6 +6,13 @@ authors:
 date: 2024-10-15
 ---
 
+## DH Theory, 06/11/2024
+
+The course began with a debate on the US presidential elections, and more specifically on our opinion of the election of Trump as the 47th President of the United States. We then learned a little more about DH theory and David Irving's publishing career, as well as his Holocaust trial. In fact, in several of his works, he deliberately quoted false information and for this he was strongly criticized by Deborah Lipstadt.
+After making us understand that to prove events like the Holocaust, a critical analysis of (archive) sources is very necessary, we moved on to the practical part of the course. We had to document our own network analysis (via Palladio) that we had made out a few sessions earlier. To begin with, M. Düring gave us an introduction to each of the steps: selecting the data, modelling it, normalizing it, linking it and classifying it.
+
+Chiara and I tried to apply these steps to our ‘Barbie Birthday Party’ example. We encountered several complications with this exercise, as we had filled in the boxes in Excel randomly (‘Relationship’ and ‘Sympathy’ categories). In other words, it was almost impossible to give any origins or reasons for these links. The only sources that can be used for this data are the films featuring the various ‘Barbie’ characters. However, even if this didn't really work for our example, I think that this process avoids the manipulation of data to justify erroneous interpretations or distorted theories, particularly in historical studies.
+
 ## Networks & PalladioEU Parliament Archives, 30/10/2024
 
 The Archives Unit Dashboard is an invaluable tool for archival research, with a comprehensive set of features to facilitate access to parliamentary documents. Thanks to its accessible and intuitive structure, it enables researchers and the public to easily explore a variety of archives, while offering innovative features such as time-lapse or oral sources. This makes it particularly suitable for academic research or large-scale projects requiring extensive consultation of parliamentary documents.
