@@ -79,8 +79,15 @@ The use of these tools is nevertheless valuable for approaching an unknown subje
 
 missing
 
-## ## [11th Session], [27.10.2024]
+## [11th Session], [27.11.2024]
 
+Why games?
 
+Creating a historical video game is a fascinating endeavor for me as a historian. It pushes me to deepen my knowledge and directly confront historical sources. By integrating elements of alternate history, I question events and their possible consequences, enriching my reflection and opening new perspectives.
+Creating a narrative and game plot allows me to model my knowledge from a different perspective. Using AI-related technologies in this process is also interesting, as it confronts me with the limits and advantages of these technologies while incorporating historical critique. This allows me to test the capabilities of AI and understand how it can be used to recreate historical environments accurately and immersively.
+This approach is both enriching and educational. It represents hours of work to make the game playable, but it offers me a new approach and a comprehensive view of my knowledge on the subject. Working on this project also helps me develop skills in storytelling, game design, and programming, further enriching my academic and professional journey.
+Ultimately, creating a historical video game allows me to combine my passion for history with modern technologies, while providing an educational and entertaining experience for players. It is a unique opportunity to share my knowledge interactively and engagingly, while continuing to learn and grow as a historian.
+
+## [12th Session], [04.12.2024]
 
 
