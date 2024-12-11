@@ -90,4 +90,13 @@ Ultimately, creating a historical video game allows me to combine my passion for
 
 ## [12th Session], [04.12.2024]
 
+Together with Jo Devaquet, Guillaume Bazela and André Perreira Pinto
+
+We examined Winston Churchill's ‘Iron Curtain’ speech with Voyant Tools, using various visualisations and ‘lists’ to analyse the text.
+Word cloud (Cirrus): The most frequent terms such as ‘world’, ‘war’, ‘united’, ‘states’ show the central themes of the speech. These words indicate Churchill's international focus and political message, particularly the relationship between Britain, the United States and the Great War. The lack of mention of the Soviets could indicate their role as antagonists or that they were left out for other reasons. The visualised frequency of the terms helps to gain an initial overview of the main themes of the text and could be used in a school context to identify important or unfamiliar words before reading. The 'TermsBerry' visualised the importance (frequency) of different terms in relation to each other.
+Collocations and contexts: Visualising collocations revealed how certain words are used together in the text. This makes it possible to better understand Churchill's intentions and nuances. It provides a quick orientation and helps to find recurring ideas, allusions, etc. similar to a search function, but with a more general and interactive visualisation. The context windows helps to verify or to check words that occur next to each other in the text, thus giving a better understanding of the collocations by providing context.
+
+By deconstructing the text, patterns and recurring themes become visible, which enables a different perspective on the speech. This method can be used in ones own work, for example when analysing historical texts, legal documents or literature, in order to quickly grasp central themes and structures.
+
+
 
