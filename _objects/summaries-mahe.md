@@ -98,5 +98,11 @@ Collocations and contexts: Visualising collocations revealed how certain words a
 
 By deconstructing the text, patterns and recurring themes become visible, which enables a different perspective on the speech. This method can be used in ones own work, for example when analysing historical texts, legal documents or literature, in order to quickly grasp central themes and structures.
 
+## [13th Session], [11.12.2024]
+
+Dr. van Donkersgoed's presentation was very interesting because we had a concrete demonstration of what it takes to conduct a public history study through the creation of a website, as well as the preliminary work needed to engage and invest the target audience. The details regarding the challenges faced during the writing of his doctoral thesis were also very enlightening. The idea that oral history or memory can either confirm or contradict the written history found in books, and thus give a voice to minorities, is appealing. Even though in my previous studies, public history was at best considered a sub-genre of the historical discipline, or even heresy, I am glad to have attended a lecture on the subject to better understand this new discipline for me.
+The details on how exhibition proposals are presented to the public, the limited room for maneuver, and all the resulting ethics, as well as the choices to be made and the power of suggestion, represent a part of the philosophy of history that interests me greatly. Therefore, it is crucial for a historian to have a clear stance, which is not an easy task and requires introspection. 
+The presentation once again demonstrated the diversity of researchers working at uni.lu and the opportunities that history studies offer for travel. The websites created under the direction of the lecturer also allow the general public to immerse themselves in the subject in an intuitive and interactive way. For the researcher, the site is also of great interest because the studied archive material is presented in the form of a catalog, making it pleasant to handle.
+
 
 
