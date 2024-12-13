@@ -107,7 +107,7 @@ Personally, I found this course engaging, as discussing current events isn’t c
 
 ---
 title: Session Summaries by Altan-Ricci
-abstract: Summary-VoyantTool
+abstract: Summary-8
 authors:
   - Ricci-0210959012
 date: 2024-12-04
@@ -118,5 +118,20 @@ As part of the course on distant reading, our assignment was exercise number 3. 
 The first part of the exercise required us to explore three specific features of the interface: a word-cirrus, the list of terms, and links. First, the word-cirrus tool projects the most common words as a word cloud, with size and color varying based on frequency. We could also adjust the number of words displayed to better visualize trends. Second, using the list of terms, it was possible to count how many times a specific word appeared in the comments, with positive terms, like “rich”, highlighted in green and negative terms, like “poor”, in red. Third, the links feature highlighted a network of the most frequent words, distinguishing primary terms in blue and their associated terms in orange, with the same “adjustment” feature possible. For instance, the word “people” (in blue) was linked to terms like “government” or “Luxembourg” (in orange). These features allowed us to visualize the vague opinions expressed in the comments and understand the general direction of the video’s main subject.
 In the second part, we explored two other features of Voyant Tools: contexts and collocations. First, the context tool displayed the sentences or passages where a specific was used, enabling us for example, to distinguish positive comments from negative ones and analyze options in more detail. Second, the collocation tool showed how often certain words appeared together in the same context. For example, the words “poverty” and “Europe” appeared together nine times in the comments, highlighting a significant connection between these two words. These analyses helped us understand the frequent and less-frequent relationships between terms and identify recurring themes in the comments.
 Finally, in the third part, we reflected on potential applications of this interface in other domains. We proposed three ideas. First, for archival research, this interface could be used to analyze historical archives. For instance, one could identify how often a specific subject, such as the Luxemburgish communist diplomat “René Blum”, is mentioned in a corpus of archives and examine the contexts in which it is referenced, like “communism” or the “Soviet Union”. Second, Voyant Tools could be employed to analyze newspaper articles, particularly the most used words used by a specific journalist or author in a publication, to conduct critical discourse analysis. Moreover, this critical discourse analysis can also be applied to topics like World War II, the Cold War, or the Crusades, enabling the user to analyze how opposed parties describes such events. Third, this tool could track the evolution of an author’s work overtime. For instance, it would be interesting to analyze how a writer’s style or themes, that lived in Germany, changed before, during, and after World War II. This exercise thus allowed us to explore the many capabilities of Voyant Tools in text analysis and to consider its practical applications in various contexts.
+
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-9
+authors:
+  - Ricci-0210959012
+date: 2024-12-13
+---
+
+## Dissemination (Part I) & Case Studies, 11-12-2024
+In this course led by Joëlla van Donkersgoed, we explored the concept of public history and its potential to make history more accessible to everyone. We discussed how public history is often controlled by political or religious authorities and how it is frequently “written by the victors”. This dynamic tends to exclude marginalized and minority communities, making it difficult for them to identify with dominant narratives. Hence, public history seeks to address this by introducing new voices and perspectives into historical storytelling, amplifying those who have been forgotten or ignored, and highlighting overlooked sources. This approach fosters inclusive dialogue and invites the general public to contribute to the construction of collective memory, transcending the boundaries of academic spaces.
+We also looked into several public history projects that exemplify these principles. First, HistoreschEsch, a participatory project where residents of Esch/Lallange voted for a mural representing their neighborhood, which combined local photographs, oral histories, audio sites and artistic contributions. Second, HistoreschGesinn, an online platform that encourages community participation in historical projects by allowing users to submit personal contributions through an online form. It also hosts events to present and discuss the research projects created from these contributions. Third, Esch in 25 Objects invited residents of Esch to share personal items that tell the story of their town and of the Italian migration through individual experiences. The project organized informal meetings in cafés to engage in community discussions in a relaxed setting. Fourth, Véronique Faber’s project on the Schueberfouer, that delves into the transregional history of the fair, particularly its magic shows, which incorporated mostly visual archives into the HistoreschGesinn platform. Finally, we concluded the session with our own public history project example, focusing on five key concepts: Who, Where, Conception, Collection, and Execution.
+291 words
+
+Personally, I found this course interesting, as it highlighted public history projects on academic and non-academic contributions, showcasing the value and relevance of public history.
 
 
