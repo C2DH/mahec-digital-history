@@ -106,7 +106,7 @@ authors:
 date: 2024-12-04
 ---
 
-##Group exercice - (Jelena, Emilie, Samuel, Sébastien) - Voyant Tools – Churchill speech – File 2
+## Group exercice - (Jelena, Emilie, Samuel, Sébastien) - Voyant Tools – Churchill speech – File 2
 
 Our group worked on assignment 1, regarding the speech made by Churchill at Fulton, Missouri in 1946, and linked with the notion of Iron Curtain, focusing here on file number 2 specifically and answering to two questions, which were:
 
