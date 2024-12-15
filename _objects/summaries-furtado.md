@@ -107,6 +107,7 @@ date: 2024-12-04
 ---
 
 ##Group exercice - (Jelena, Emilie, Samuel, Sébastien) - Voyant Tools – Churchill speech – File 2
+
 Our group worked on assignment 1, regarding the speech made by Churchill at Fulton, Missouri in 1946, and linked with the notion of Iron Curtain, focusing here on file number 2 specifically and answering to two questions, which were:
 
 1. Explore the word cloud (cirrus), the list of terms, and the links (on top left). What do you notice about the insights you obtain and how would you interpret them? Can you think of ways of using this kind of visualizations and lists?
