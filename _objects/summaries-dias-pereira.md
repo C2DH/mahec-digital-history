@@ -3,6 +3,21 @@ title: Session Summaries by Diana-Dias-Pereira
 abstract: 
 authors:
   - dias-pereira-id
+date: 2024-12-17
+---
+
+## Public History, 11.12.2024
+
+During the last lesson, Joëlla van Donkersgoed gave us a lesson on public history projects in Luxembourg, such as Historesch gesinn, HistorEsch or Minett Stories. She explained to us how these digital projects can be a useful tool to create history by citizens for citizens. The examples she gave us in class were mostly focused on the city of Esch-sur-Alzette. All these websites focus on telling the stories of the people of Esch-sur-Alzette through various projects. HistorEsch, for example, decided to create a mural on a wall in the Lallange neighborhood with elements that recalled the old neighborhood: the architecture of the typical houses, a representation of people playing outside and an airplane to remind us that there used to be an old airport there. 
+The website Historesch gesinn, on the other hand, had different projects, such as an exhibition of objects from Esch-sur-Alzette citizens that reminded them of the town. There were objects such as the Jeunesse shirt, a yellow teddy bear belonging to an Italian immigrant girl or a lamp from the mines. Joëlla van Donkersgoed explained to us the difficulties of such projects, such as lack of interest or simply not knowing about them, and how difficult it is to get people to participate in such exhibitions. For the painting in Lallange, for example, they asked the people living in the neighborhood to choose the final painting with the elements that best identified the neighborhood.
+All the projects she presented to us were part of the main theme of the class: Public History. We talked about what makes public history so special. It's the fact that the public is involved in the creation of these projects. It's important in public history to create history for the public by the public. All the projects presented showed us the active participation of the people and how, without them, it would not have been possible to create such projects.
+
+
+---
+title: Session Summaries by Diana-Dias-Pereira
+abstract: 
+authors:
+  - dias-pereira-id
 date: 2024-11-6
 ---
 
