@@ -3,6 +3,24 @@ title: Session Summaries by Diana-Dias-Pereira
 abstract: 
 authors:
   - dias-pereira-id
+date: 2024-12-18
+---
+
+## Dissemination & Case Studies 'Journal of Digital History', 18.12.2024
+
+In today's class, we talked about the Journals of Digital History and their open access online. Professor Papastamkou explained to us the advantages and disadvantages of open-access articles. In some cases, as it was in a group presentation, you might have to pay for the article, which is not cheap. However, online and peer-reviewed articles are a great tool, especially for us students, to conduct research without having to leave the office or house.
+Peer reviewing is also very interesting and helpful for researchers and students because it adds more credibility to the content of the articles. The fact that specialists have already double-checked the information enhances the article's reliability.
+The exercises we did in class were very helpful, not so much for checking the content, but for focusing on all the surrounding details, such as the data one could find and how many authors and reviewers analyzed and wrote the article. I personally tend to overlook such information, but it can be very helpful for writing my next papers.
+The most appealing discussion I had with my colleagues was about the sources specifically, whether maps could be perceived as secondary or primary sources. Depending on the way they are presented, a map could be either a primary or secondary source. For example, a map by Konstanty Gutschow from the Staatsarchiv Hamburg is a primary source, whereas a screenshot taken by Eliane Schmid’s QGIS workspace of a map, on the other hand, can be considered a secondary source.
+This type of case study analysis can be very helpful for us in our research.
+
+
+
+---
+title: Session Summaries by Diana-Dias-Pereira
+abstract: 
+authors:
+  - dias-pereira-id
 date: 2024-12-17
 ---
 
