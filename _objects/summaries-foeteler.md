@@ -120,7 +120,7 @@ date: 2024-10-09
 
 This session was about the topic of Impresso and held by Marten Düring. As a preparation for the session, we had to read an article written by Marten Düring, Estelle Bunout and Daniele Guido. The text is about the Impresso App, the features that come with it and the different methods of analysing newspapers. This is an important tool for historians because newspaper are a source that does not only transmit information, but it also reflects a specific time. In a newspaper, one can find many different aspects of society such as political, environmental, economical and historical aspects. With gathering all those information, a historian can paint a very realistic picture of the past. While working with Impresso, you can use filters to separate information, explore different perspectives and focus on specific aspects. During class, the professor demonstrated how to use Impresso and explained different scenarios like spikes in data and the background why it is that way. Marten Düring also mentioned the challenges of the app, because of scanning difficulties and struggles with character recognition. However, we could also play and discover Impresso on our own in groups. We chose to work with the unigram and focused on words such as “Hitler”, “Konzentrationslager”, “Juden”, “Hakenkreuz” and “KZ”. The diagram that was shown to us, linked to those words, made it clear and visual when those terms were frequently used and how it evolved over the years, especially during the years of the second World War. 
 
-## [Summary of the third session], [02.10.2024]
+## [Web Archives], [02.10.2024]
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
