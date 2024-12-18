@@ -16,7 +16,7 @@ authors:
 date: YYYY-MM-DD
 ---
 
-## [Summary of the session], [11.12.2024]
+## [Dissemination (Part I) & Case Studies], [11.12.2024]
 
 This session was led by Joëlla van Donkersgoed, we learned about public history and how it makes history more inclusive and accessible. Unlike traditional history, often controlled by authorities and focused on “winners,” public history gives a voice to those who are usually left out. It invites everyone to share their stories and helps build collective memory together.
 
