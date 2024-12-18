@@ -78,7 +78,7 @@ authors:
 date: 2024-10-23
 ---
 
-## [Summary of the sixth session], [23.10.2024]
+## [Data, Networks and Palladio], [23.10.2024]
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
@@ -95,7 +95,7 @@ authors:
 date: 2024-10-16
 ---
 
-## [Summary of the fifth session], [16.10.2024]
+## [Story Maps], [16.10.2024]
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
