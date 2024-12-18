@@ -11,7 +11,7 @@ title: Claire Foeteler
 
 
 
-## Data, Metadata and Tropy,25.09.2024
+## Data, Metadata and Tropy, 25.09.2024
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
