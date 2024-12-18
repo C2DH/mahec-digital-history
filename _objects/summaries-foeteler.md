@@ -64,7 +64,7 @@ authors:
 date: 2024-10-30
 ---
 
-## [Summary of the seventh session], [30.10.2024]
+## [DH Theory: Criticisms; Transparency; Reproducibility/Documentation], [30.10.2024]
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
