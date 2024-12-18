@@ -90,7 +90,7 @@ After the more theoretical part, we could ourselves “play” and work with Pal
 
 
 
-## Summary of the eigth session, 06.11.2024
+## DH Theory, 06.11.2024
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
