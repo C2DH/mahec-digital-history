@@ -104,5 +104,7 @@ Dr. van Donkersgoed's presentation was very interesting because we had a concret
 The details on how exhibition proposals are presented to the public, the limited room for maneuver, and all the resulting ethics, as well as the choices to be made and the power of suggestion, represent a part of the philosophy of history that interests me greatly. Therefore, it is crucial for a historian to have a clear stance, which is not an easy task and requires introspection. 
 The presentation once again demonstrated the diversity of researchers working at uni.lu and the opportunities that history studies offer for travel. The websites created under the direction of the lecturer also allow the general public to immerse themselves in the subject in an intuitive and interactive way. For the researcher, the site is also of great interest because the studied archive material is presented in the form of a catalog, making it pleasant to handle.
 
+## [14th Session], [18.12.2024]
+
 
 
