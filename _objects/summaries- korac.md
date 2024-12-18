@@ -138,6 +138,19 @@ The course on 11 December 2024 was led by Sofia Papastamkou and Eliane Schmid. T
 
 I personally found this session fascinating and insightful, as it demonstrated the importance of public history in democratizing historical narratives. By involving minorities and “forgotten people” in the process, public history allows for the introduction of fresh perspectives and alternative narratives, enriching our collective understanding of the past and ensuring a more inclusive historical storytelling.
 
+---
+title: Session Summaries by Kenan Korac 
+abstract: Summary 
+authors:
+  - Korac-0210945149
+date: 2024-12-18
+---
+
+## Dissemination of Scientific Results II, 18.12.2024
+
+The course from 18.12.2024 was held by Sofia Papastolmu and the course title was Dissemination of Scientific Results II. The focus of the course was on the topic of scientific publishing. In other words, what is academic or scientific publishing, how does it work, where does it come from, how has it evolved? Scholarly publishing (or academic or scientific publishing) is the subset of publishing that disseminates academic research and scholarship. Scholarly publishing should be a work that is reliable and reusable, so there are criteria that must be followed in order for the work to be considered scholarly and published. Another term that exists is peer review, which means that a paper has been read and recognised by other specialists in the field. It is important for a researcher to have their paper peer reviewed because it means that their work is valuable, reusable and has been recognised by academia. Hence the pressure to constantly publish your research. Publish or perish is unfortunately the bitter reality for researchers and people involved in academia. Moreover, publishing academic papers is a huge market, which explains the high demand and competition between large publishers such as Springer. This leads to another problem, that of market monopolisation. Large publishers set the rules for scientific publication and determine the subscription or sale prices of papers. This creates inequalities and difficult access to scientific articles. As a result, the Open Access movement began. Open access means not only free and full access to the papers, but also the possibility to reuse, download and copy the work. The last lesson was dedicated to group work with the aim of analysing scientific articles. 
+
+
 
 
 
