@@ -80,7 +80,7 @@ After the more theoretical part, we could ourselves “play” and work with Pal
 
 
 
-## DH Theory: Criticisms; Transparency; Reproducibility/Documentation, 30.10.2024
+## EU Parliament Archives, 30.10.2024
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
