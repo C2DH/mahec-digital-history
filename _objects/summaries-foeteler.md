@@ -18,7 +18,13 @@ date: YYYY-MM-DD
 
 ## [Summary of the session], [11.12.2024]
 
-<!--one to two paragraphs of text summarizing the session-->
+This session was led by Joëlla van Donkersgoed, we learned about public history and how it makes history more inclusive and accessible. Unlike traditional history, often controlled by authorities and focused on “winners,” public history gives a voice to those who are usually left out. It invites everyone to share their stories and helps build collective memory together.
+
+Joëlla shared several projects that show how public history works. One project, HistoreschEsch, brought people from Esch/Lallange together to create a mural about their neighborhood. Using local photos, stories, and ideas, residents voted on the final design, which highlighted important memories like typical houses and a plane from the area’s past.
+
+Another example, Historesch Gesinn, is a website where people can share personal stories and objects related to history. It also organizes events where the community can discuss these contributions. Similarly, Esch in 25 Objects invited residents to share items, such as a miner’s lamp or a sports shirt, to tell the story of Esch and its Italian migration. Informal gatherings in cafés created a relaxed space for these discussions.
+
+The course ended with a reflection on creating similar projects, focusing on audience, collaboration, and design. Overall, it showed how public history connects people to their past and creates meaningful stories together.
 
 
 
