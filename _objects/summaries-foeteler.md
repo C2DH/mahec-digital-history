@@ -8,6 +8,24 @@ title: Claire Foeteler
 ---
 
 
+---
+title: Session Summaries by Name-of-Contributor
+abstract: 'Bla bla bla'
+authors:
+  - person-id
+date: YYYY-MM-DD
+---
+
+## [Summary of the session], [11.12.2024]
+
+<!--one to two paragraphs of text summarizing the session-->
+
+
+
+
+
+
+
 
 title: Session Summaries by Claire Foeteler
 abstract: 
