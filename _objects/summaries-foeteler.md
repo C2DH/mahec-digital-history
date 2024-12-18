@@ -113,7 +113,7 @@ authors:
 date: 2024-10-09
 ---
 
-## [Summary of the fourth session], [09.10.2024]
+## [Online Newspaper Archives and Impresso], [09.10.2024]
 <!--one to two paragraphs of text summarizing the session-->
 
 <!-- create such a section for each weekly summary-->
