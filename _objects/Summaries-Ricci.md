@@ -134,4 +134,19 @@ We also looked into several public history projects that exemplify these princip
 
 Personally, I found this course interesting, as it highlighted public history projects on academic and non-academic contributions, showcasing the value and relevance of public history.
 
+---
+title: Session Summaries by Altan-Ricci
+abstract: Summary-10
+authors:
+  - Ricci-0210959012
+date: 2024-12-20
+---
+
+## Dissemination (Part II) & Case Studies, 18-12-2024
+This course focused on data papers and the fundamental objectives of scholarly publishing. It addresses how research is made visible, assessed for reliability and reproducibility, and leveraged to enhance the recognition of researchers. It also explored the dissemination of research through various channels, including books, scientific journals, theses, blogs, data repositories, and open archives among others. Furthermore, the criteria of scholarly publishing include adherence to scientific methods and academic standards, alongside peer validation. This process, conducted by domain experts, ensures the quality, validity, and originality of published work. It also forms part of an editorial workflow leading to outputs like monographs, edited volumes, and journal articles. Although peer review has existed for centuries, it became institutionalized post-WW2 with the rise of the scholarly publishing industry.
+The Open Access movement arose in response to the increasing oligopolistic concentration of scientific publishers and the high cost of journal subscriptions, which limited accessibility. The advent of the Internet and the creation of early open archives, such as arXiv in 1991, catalyzed this movement. Hence, Open Access facilitates the free publication and accessibility of research, reducing institutional and financial barriers. Lastly, new forms of scholarly publishing, such as data papers, focus on describing datasets and making them accessible. These papers enrich academic publishing, promote international collaboration, and are supported by European policies like the Open Science initiative. So, in the course’s second half, our group analyzed an article from the Journal of Digital History titles “Dialects of Discord. Changing vocabularies in the Dutch Cruise Missile discussion.” In this article, we noticed the various filters, such as “hermeneutics”, which allow for a full grasp and understanding of the article.
+274 words
+
+Personally, I found the theoretical part of this course interesting and relevant, but the second part less engaging.
+
 
