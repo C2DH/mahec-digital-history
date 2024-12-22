@@ -106,5 +106,8 @@ The presentation once again demonstrated the diversity of researchers working at
 
 ## [14th Session], [18.12.2024]
 
+The last session of the Introduction to Digital History course deeply impacted me, highlighting the difficulty of establishing oneself in the academic world and the challenges posed by the scientific publishing industry, particularly through the peer review process, whether via traditional publishing houses or open source systems. The publishing industry seems symptomatic of the academic world: one must be prepared to enter a tough environment, which can be challenging for a young researcher. The importance of networks forged throughout one's academic career proves to be crucial.
+I dare to draw a parallel with the private sector, where I worked for 15 years before returning to studies. Beneath a polished veneer suggesting a familial atmosphere, it is also a cutthroat world. In my opinion, university studies do not, or no longer, prepare students for this competition. It seems essential to me to build and maintain networks from the first application, so they might be useful years later.
+That aside, peer review via open source appears to be an indispensable means of fostering scientific collaboration among researchers. However, the monopoly held by publishing houses drives the majority of researchers towards open source peer review. It should be noted that prestigious universities likely do not face publication issues, and I imagine it is no coincidence that some universities have invested in university presses to circumvent the problem, or at least make it an internal one.
 
 
