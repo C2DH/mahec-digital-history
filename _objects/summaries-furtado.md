@@ -119,3 +119,31 @@ First, in the word cloud the most important words are bold and bigger and the le
 Then, the tab « contexts » permits us to see how one of the frequently appearing words occurs in its specific textual context at each of its occurrences. There, in a column for the left part and one on the right part, a snippet of the sentence containing the word is given, thus granting a vision of the context of its use. We can therefore not only see with the word cloud how many times a word appears, but here with the context, this appearance differs from each other, possibly on the thematic matter or the intended meaning and tone. Clicking on it make an excerpt from the used text appear. The display in our case concerns the word « World », which we can see in the two first given contexts, relate in the discourse of Churchill to World Power and to organisations on a worldwide scale, vastly different meaning. The tab « collocations » on the other hand lets us see how many times a specific word, that can be chosen via a menu at the bottom, has been appearing in relation to another specific one. For example, we can see the word « world », the most frequently appearing, has been aside the other term « organisation » a total of 9 times, thus underlining the importance of world organisations for Churchill and his intentions. One can also in this regard structure the shown results and collocation on the basic of their frequency in ascending order an in descending order. Furthermore, the collocation box highlights in the colours red words like adjective with a negative connotation and meaning and green those with positive ones. Here, Churchill used the strong word tyranny, to give an example.
 
 Finally, our insight regarding distant reading is that in by deconstructing the speech made by Churchill via Voyant Tools for example, we can understand the whole text in a sort of summarised version where the key intents and wordings as well as their contexts and intent are highlighted more efficiently and visible than it might have been if read closely in a more regular way. We notice more clearly the style used by Churchill to accentuate certain aspects more positively and in a more encouraging manner or more negatively in a depreciating way.
+
+
+---
+title: Session Summaries by Emilie-Furtado
+abstract: Summary-9
+authors:
+  - emifurtado
+date: 2024-12-11
+---
+
+## Public History - 11-12-2024
+
+The class was held by Dr. Joella van Donkersgoed and she spoke about oral and public history. However, without a PowerPoint, for technical reasons, which was sometimes disturbing, she presented her lecture very well even without a PowerPoint. At the beginning of the lesson, she introduced herself and the website "Historesch gesinn", its origin, and herself. What I noticed was that some projects were not shown on my laptop, but were visible on the screen (at the university). Her presentation was very focused on projects that were carried out in Esch-sur-Alzette and she told us about how projects came about, how they went, and what she contributed. For example, she had to teach herself how to create websites, but she also talked about difficulties such as people either not being interested in projects, or having to give more support, and hints to get people to interact, which they originally wanted to avoid. We also worked together in class on a small exercise to get a better understanding of public history. Public history has 3 steps: Conception, and collection execution. Our class project was supposed to be digital, it was aimed at high school students, it was linked to the video game Warzoon and we wanted to use visual resources. In the end, she told us about her work and worries, but she was warmly welcomed and supported by the people/society.
+It is clear that public history does not work without society and that we are very dependent on it. But these projects also show that there are interesting stories hidden in society, which can lead to exciting results through the submission of sources. They are also an opportunity to give a platform to those who have been forgotten or even silenced in history.
+
+---
+title: Session Summaries by Emilie-Furtado
+abstract: Summary-10
+authors:
+  - emifurtado
+date: 2024-12-18
+---
+
+## Dissemination (Part II) & Case Studies ‘Journal of Digital History’; data papers
+
+In this class, we talked about scientific/academic publishing and their access. First, we had a short presentation by Professor Papstamkoy, where she talked about the Journal of Digital History.
+Then we were divided into groups again. I was in group 1. We were under extreme time pressure and it was extremely loud in the class, which meant that no one in the group could focus, so we went outside and split up the group work. Our text was about Data from a Survey on computer courses for humanities majors. Our text was not freely available and as students, we were not given access to the text. We only got access through our professors. To summarize all group works that were presented in class, we learned that not all articles are free and can be extremely expensive to get access to all the data. This is due to the high demand and competition between publishers and the concepts are high prices and more difficult access to scientific works, thus limiting access. This leads to the Open Access movement to simplify access again.
+Online and peer-reviewed, which is a paper that has been evaluated and recognized by the scientific community, articles are useful so that you can work from anywhere, you become more flexible. They also lend credibility since even specialists double-check the information. In the end, the reflection and discussion were very interesting and enlightening. I never really thought about the background and process of publishing a scientific paper and what consequences it has.
