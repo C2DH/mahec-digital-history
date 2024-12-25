@@ -132,7 +132,7 @@ We discussed the importance of peer review, where experts in the field evaluate 
 
 The Open Access movement is helping to address these issues by making research freely available to everyone. It allows people to read and download articles without restrictions, promoting equality in access to knowledge. New digital formats, like data papers, have also made it easier to share specific research data with others.
 
-As part of the session, we analyzed the article “Layering Public Park Histories.” We looked at its structure, authorship, referencing, and use of maps and visuals as primary sources. This activity helped us understand how scholarly publishing works and how to evaluate academic articles for reliability and usefulness in research.
+As part of the session, we analyzed the article “Layering Public Park Histories: Uncovering the Effects of Restoration Ideas in Post-War Urban Spaces in Germany and the U.S.” We looked at its structure, authorship, referencing, and use of maps and visuals as primary sources. This activity helped us understand how scholarly publishing works and how to evaluate academic articles for reliability and usefulness in research.
 
 
 
