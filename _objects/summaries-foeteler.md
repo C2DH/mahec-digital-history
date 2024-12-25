@@ -122,3 +122,13 @@ Another example, Historesch Gesinn, is a website where people can share personal
 The course ended with a reflection on creating similar projects, focusing on audience, collaboration, and design. Overall, it showed how public history connects people to their past and creates meaningful stories together.
 
 
+
+## Dissemination & Case Studies 'Journal of Digital History', 18.12.2024
+
+
+
+
+
+
+
+
