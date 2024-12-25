@@ -126,7 +126,13 @@ The course ended with a reflection on creating similar projects, focusing on aud
 ## Dissemination & Case Studies 'Journal of Digital History', 18.12.2024
 
 
+In our recent session with Mrs. Papastamkou, titled "Dissemination of Scientific Results II," we learned about the process of scholarly publishing and how researchers share their work. Scholarly publishing aims to make research visible, reliable, and reusable while also helping researchers build credibility. For a publication to be considered scientific, it must meet strict standards to ensure the content is trustworthy.
 
+We discussed the importance of peer review, where experts in the field evaluate research before it is published. This process ensures the work is accurate and valuable, adding credibility to the publication. However, there are challenges in scientific publishing, such as high costs, limited access due to subscription-based models, and pressure on researchers to publish frequently. Big publishers control much of the market, creating barriers for those who cannot afford access.
+
+The Open Access movement is helping to address these issues by making research freely available to everyone. It allows people to read and download articles without restrictions, promoting equality in access to knowledge. New digital formats, like data papers, have also made it easier to share specific research data with others.
+
+As part of the session, we analyzed the article “Layering Public Park Histories.” We looked at its structure, authorship, referencing, and use of maps and visuals as primary sources. This activity helped us understand how scholarly publishing works and how to evaluate academic articles for reliability and usefulness in research.
 
 
 
