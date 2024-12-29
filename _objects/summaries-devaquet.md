@@ -112,3 +112,15 @@ Collocations and contexts: Visualising collocations revealed how certain words a
 
 By deconstructing the text, patterns and recurring themes become visible, which enables a different perspective on the speech. This method can be used in ones own work, for example when analysing historical texts, legal documents or literature, in order to quickly grasp central themes and structures. 
 
+
+---
+title: Session Summaries by Jo Devaquet
+abstract: 'Summary 9'
+authors:
+  - Jo Devaquet-0191486141
+date: 2024-12-29
+---
+
+## [Dissemination (Part I) & Case Studies 'Minett Stories'; 'Historesch Gesinn'], [11.12.2024]
+On December 11, 2024, Joëlla van Donkersgoed introduced the idea of public history and how it can make historical stories more inclusive and accessible, or in other words how it can democratize it. Public history aims to involve everyone, especially those whose voices have often been ignored in the official accounts shaped by political or religious authorities. By inviting communities to take part, it builds shared memories and brings history out of academic spaces and into everyday life. Van Donkersgoed shared several inspiring projects to show how this works in practice. One was HistoreschEsch, where residents of Esch/Lallange helped create and voted for a mural about their neighborhood's history, using local photos, stories, and artwork. Another was HistoreschGesinn, an online platform where people can explore historical projects, share their own stories, and join events. She also spoke about Esch in 25 Objects, a project where locals shared personal items tied to their town’s past, with a focus on the Italian community’s migration. This included a touching story about a child’s teddy bear that symbolized their family’s migration journey from Italy. It was a gift from a father to his daughter as he left their Italian hometown to find work in Luxembourg. Informal gatherings in neighbourhood cafés gave people a comfortable space to share these memories. Véronique Faber’s work on the Schueberfouer fair explored its rich history, including its magic shows, and added new stories and visuals to the HistoreschGesinn platform. 
+
