@@ -124,3 +124,18 @@ date: 2024-12-29
 ## [Dissemination (Part I) & Case Studies 'Minett Stories'; 'Historesch Gesinn'], [11.12.2024]
 On December 11, 2024, Joëlla van Donkersgoed introduced the idea of public history and how it can make historical stories more inclusive and accessible, or in other words how it can democratize it. Public history aims to involve everyone, especially those whose voices have often been ignored in the official accounts shaped by political  or religious authorities. By inviting communities to take part, it builds shared memories and brings history out of academic spaces and into everyday life. Van Donkersgoed shared several inspiring projects to show how this works in practice. One was HistoreschEsch, where residents of Esch/Lallange helped create and voted for a mural about their neighborhood's history, using local photos, stories, and artwork. Another was HistoreschGesinn, an online platform where people can explore historical projects, share their  own stories, and join events. She also spoke about Esch in 25 Objects, a project where locals shared personal items tied to their town’s past, with a focus on the Italian community’s migration. This included a touching story about a child’s teddy bear that symbolized their family’s migration journey from Italy. It was a gift from a father to his daughter as he left their Italian hometown to find work in Luxembourg. Informal gatherings in neighbourhood cafés gave people a comfortable space to share these memories. Véronique Faber’s work on the Schueberfouer fair explored its history, including its magic shows, and added new stories and visuals to the HistoreschGesinn platform. 
 I personally really enjoyed the course because it was based very closely on the researcher's field of work and was therefore a change from the typical academic theory-centered approach.
+
+
+---
+title: Session Summaries by Jo Devaquet
+abstract: 'Summary 9'
+authors:
+  - Jo Devaquet-0191486141
+date: 2025-01-04
+---
+
+## [Dissemination (Part II) & Case Studies 'Journal of Digital History'; data papers ], [18.12.2024]
+In our final class of the semester, we focused on scientific publishing and its challenges. Scientific publishing involves sharing academic research to make it visible and distinguish researchers. Traditional dissemination methods include academic journals and books, but these are often hindered by accessibility issues and monopolized markets. This restricts access and creates inequality, leading to the rise of the Open Access movement, which aims to make scientific knowledge freely available. We also explored peer review, a vital process where experts evaluate papers to ensure quality and credibility within the academic community.	
+In class, Professor Papastamkou introduced the Journal of Digital History and explaned how digital innovations have reshaped publishing. We discussed data publishing as a newer format emphasizing the accessibility and reuse of research datasets. Later, we worked in groups with limited time. My group examined a text on survey data for humanities majors, which was not freely accessible. This highlighted the restrictive nature of many academic works and the importance of open-access initiatives. The session also underscored how online platforms and peer-reviewed publications enhance flexibility and credibility. By sharing insights from group work, we collectively understood the broader implications of publishing—namely, how barriers limit knowledge dissemination and how movements like Open Access can combat this. 	
+Personally, this session changed my perspective on academic publishing. I never realized how restrictive traditional models could be or how impactful open access can become. 
+
