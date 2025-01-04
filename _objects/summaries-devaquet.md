@@ -128,7 +128,7 @@ I personally really enjoyed the course because it was based very closely on the 
 
 ---
 title: Session Summaries by Jo Devaquet
-abstract: 'Summary 9'
+abstract: 'Summary 10'
 authors:
   - Jo Devaquet-0191486141
 date: 2025-01-04
