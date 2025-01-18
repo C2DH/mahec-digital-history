@@ -1,11 +1,73 @@
-title: Session Summaries by student 4
-abstract: 'Bla bla bla'
+Session Summaries by student 4
+
 authors:
   - 0200994458
-date: 2024-11-23
----
 
-## DH Theory: Criticisms; Transparency; Reproducability/Documentation, 2024.11.06
+----------------------------------------------------------------------------------------------------------------------------
+ ## Weekly summary of the 25th September 2024
+
+My general impression of that lesson are that too many buzzwords are used and sometimes it felt like I was at a product presentation of a software in which I learned next to nothing about said product.
+As for the speed, I much rather the professors take their times talking well about their topics rather than try to get through as many points as possible. I lose any attention and interest when I can’t follow what someone is saying. The classroom’s acoustics also do not help the case because it walls drown the professor’s voice. This led me to miss possible important information.
+As for the presentation and introduction into data and metadata, I remember being overwhelmed and misunderstanding the example given about the Philippine Facebook. Having first seen the metadata without any context given, it made me feel ever more lost throughout the lesson. I suggest not doing this for the first real example about data and metadata since most students are into human sciences and not informatics. Make people interested in a subject they know nothing about instead of infatuated and lost.
+Finally about Tropy, the few we saw about it, looked interesting. Sadly it wasn’t possible to go further into its functionalities because the software looked interesting and actually useful, an impression I did not get with data and metadata even though I constantly use them in my research.
+
+----------------------------------------------------------------------------------------------------------------------------
+## Weekly summary of the 2nd October 2024
+
+This week in class we had the class be split into multiple groups depending on the assignment each student or group wanted to do. My group consisted of Charel, another guy who sat beside me and myself. Our assignment had us reading an article by the BBC about web archives and some initiatives doing web archiving. The article mostly talked about the Internet archive, a private venture trying to archive as much as possible from the Internet. It also talked about two separate web archives, these two were government funded but way tinier in scope and focused on specific websites like Twitter for example.
+The article itself was interesting but threw various arguments, problematics and example around. It could’ve been more structured but everything else was fine. After we barely touched the subject of discussing the article each of us read on his own, we were kindly obliged to start the presentation phase of the class. I believe we did fine-ish, except for some rambling due to a lack of time to realistically organise our thoughts about the various questions we had to answer about the article.
+As for the other presentations, it was interesting to see that it is easier than I thought to find one self’s digital footprint nowadays, something which another group was tasked to do about themselves and then present the results to the rest of the class.
+Generally, I preferred this type of class to the one from the previous week because the active work made me invested in class and didn’t allow me to doze off mentally, which I struggle not to do in more “academic” lectures.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 9th October 2024
+
+This week Professor Düring presented to the class the Impresso project, a data analysis project the University of Luxembourg is developping together with the University of Zürich and others. Prof. Düring explained how this is the second Impresso project and that Impresso is supposed to develop a data analysis tool for the analysis of immense corpuses of journals. Impresso has nowadays swiss and luxembourgish journals from the 18-hundreds up to the second part of the 20th century. Getting access for journals that are usually less than 50 years old seems to be complicated due to legal issues as such the Impresso Project has had problems obtaining these.
+Professor Düring made us work in groups to then explore the various functionalities the tool already has.
+My group consisted of Stefan, Samuel Pierre and myself and the funcionality we analysed and tried out was the Text Reuse. The thought behind that functionality was to search for a certain expression and look at what Impresso gave back.
+We used "Ligue des nations" which turned many journals from 1920 up to 1922, then pretty much nothing until 1934. Since "Ligue des nations" is doubly used as the League of Nations and the Nations Cup in Football, we found some articles of journals mentionnning the football event. This lead us to restrict the search parameters with time limits.
+Another part of the tools we analysed was supposed to looks for words in journals about our searchword and show journals with articles with content similar to the ones having "Ligue des Nations" in them. The reality was that this funciton simply did not work at all. That function looked at characters, not words which made it that journals with high matches had in actuallity nothing to do with the searched subject.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 16th October 2024
+
+This week Ms. Schmid explained the utility of maps for historians and how historians can use maps to find information and how to portray information on a map a historian wants to create.
+
+Ms. Schmid then showed us the website https://storymaps.com, a map builder which allows for people to use real geographical maps to present a subject. After giving us an overview about the website, we once again, were divided into groups. This time I only worked together with Stefan and we looked at the project Preserving Society Hill.
+this project was meant to document the history of the Society Hill neighbourhood in Philadelphia, United States of America.
+The project's website had two interesting parts, one of which was an interactive map with three historical layers: 1949,1950, 1980. The layers show the evolution of the neighbourhood during that time period. 
+The map also allowed the users to searhc for the buildings built during a given time period, what architect built it, if it was part of an urban renewal program, if the house's history has images or oral stories.
+Another interesting part of the website are the interviews with its residents. There we find not only the interviews but also where people lived.
+After taking a look at the projects website, Stefan and me tried recreating such a map on StoryMaps and it didn't work. StoryMaps refused have squares that weren't parallel to the users screen, hence why our territorial delimitations weren't as accurate as the actual nieghbourhood.
+Even with the documentation on StoryMaps and the tutorials the website offers, we struggled immensely to the point of frustration.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 23rd October 2024
+
+This week we looked at Networks and the connections inside of them and between them.
+To explain this concept Pr. Düring used the example of mariages. He explained that some invitees were part of the grrom's network, other part of the bride's, and some were part of both.
+Thanks to that real life example, the whole concept of networks was a lot less abstract than some theories we have until now in this class.
+The example allowed for the explaination of the reciprocity (people being part of both networks). What made the people be part of the networks are their relationships with either the bride or the groomsman.
+People could have various things that made them stand out, these are their attirbutes.
+After this was explained, we got to see how different nodes inside of Networks might transfer data and the importance of different nodes inside a Network. A node with many connecionts is an important hub while some with only one connection are pretty much a dead end.
+The hands-on this time consisted in either using Vistorian or Palladio. I chose Palladio.
+The thought behind the hands-on was to create a network with nodes and attirubtes about any given subject. Some people decided to recreate a network of their mariages, I decicded to create a network about Second World War tanks. Their attirubtes were divided into tank type, chassis, role, nation and the relations were if thy fought together or against one another, were allies, never met in combat.
+
+All in all, that lesson was quite fun and not frustrating, something which is a reaccuring feeling throughout this class.
+I believe the real life example and the freedom during the hand-on made this lesson quite interesting and easy to digest.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 30th October 2024
+
+I was sick that week and couldn't partake in the class about the EU Parliament Archives.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 6th November 2024
 
 For this week's course, I believe taking last week's network homework to have been the right choice.
 This made the hands-on quite easier to understand, and then, do.
@@ -17,5 +79,81 @@ The thought process for the choice of actors and generally the question of proof
 I had to know a bit of it since my bachelor's thesis had me analyse a large quantity of 1930s and 1940s journals. I admit that I did not follow the FAIR procedure because I was not aware of it at the time.
 Onto the hands-on, the exercice felt initially quite fantastical but being able to do it with my own, already built, network, made the exercice easier due to me knowing how I chose the various nodes and edges.
 This familiar ground to start one made the hands-on doable for me, which in the end led me to leave satisfied instead of frustrated, something quite common at the start of this semester in this course.
+All in all, the use of one's own networks made the understanding of the FAIR principle a lot easiser while also immediately engaging with it.
+The discussions aournd Trump and Irving were also a good introduction into the subject of information missinterpretation and information bending, and bias which somehow fit extremely well int othe main lesson's topic.
 
-261 words.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 13th November 2024
+
+This week we sadly had a look into today's worst nightmare, Generative AI.
+I'll not hide the fact that I'm no fan of AI, not because of what it is but because of how AI is misused.
+I want AI to do the chores while I get the time to make art and work and not have AI generate "art", while stealing from legtitimate human artists, and take up workplaces of humanes and I'm stuck doing chores.
+With that out of the way, during this lesson we looked at what AI is, the fact that it isn't sentient, yet.
+We saw the difference between real artificial intelligence and machine learning, which is what AI is nowadays.
+We also looked at 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 20th November 2024
+
+During this lesson we continued with the sad subject of AIs and their benefits and problems in regards to historical work. We first had a look into what some "important" guy at OpenAI had to say during a podcast. He made the irrational comparaison to ccars saying that it isn't a manufactors fault if a car gets into an accident but the driver's. He missed tha part in which if the car manufactor intentionally ignored safety precautions and that the accident is due to this, that yes it is the manufactor's fault. Same with AI, if there's no code in an AI to protect humans from harm AI will not hesitate to suggest harm. There has been a case in the United States where a teenage boy killed himself after an AI persona motivated him to commit suicide.
+
+During the hands-on the classe was divided into  groups. First each group had to discuss by itself the arguments for or against AI use in history.
+I was part of the group against it. I won't go into details of what arguments each group said but the general consensus was that using AI to ease some menial work is fine but using AI for the menial work, the analysis, redaction and thinking, basically use AI to replace historians is too much. AI has to be used as a tool and nothing more.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 27th November 2024
+This week wwe looked at the Twine Game Engine, was fun, Not much to say except that I don't like how this lesson did exactly what I'm so against AIs. Instead of helping the students find ways to be create in story telling while also being historically accurate.
+So instead of combining arts and history, we students got the menial part of coding the game. The one human aspect, the art of videogame making got relegated to some AI.
+This is exactly what AI is not supposed to be used.
+How's a historian supposed to develop empathy towars the people of the past if he can't even imagine because he relegates that, to me slightly important part of the historian's job, to some ... AI?
+I did try during the homework, which was meant to finish the hands-on, to use AI to help me code at least something in Twine but neither Chat GPT nor Copilot were able to give me the correct synthax for Twine 2, the engine we used.
+I dont understand why we're learning how to be some lazyass historians with AI instead of sunday-level coders.
+Twine was fun thoough.
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 4th December 2024
+
+
+This week together with Jo, Samuel, Guillaume and Pierre, we analysed Chruchill's famous Iron Curtain speech through Voyant Tools, a website which helps people do some distant reading. The tool has multiple visualisation options to help find out what words are msot used and in that way thye're used. The tool in itself is quite userfriendly.
+Our most important worsd were "war", "world", "united", and, "states". These 4 words give a hint into the speech's content. Something about a world war and maybe the United States.
+Voyant tools allowed us to not only find out how often these 4 wors were used but also in conjunction with what other wors.
+This tool seems to be quite useful. The only regret is that we had such a well-known speech to analyse during the hands-on. This made our analysis of Voyant Tools' output biased toawrds Churchill's intentions. It would've been interseting to get a lesser known speech, analyse it with Voyant Tools and then read the speech and see if the results of the analysis with Voyant Tools coincides with the findings of the archaïc analysis.
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+## Weekly summary of the 13th December 2024
+
+This week Dr. Joëlla van Donkersgoed talked about concrete examples of public history she has already undertaken udring her career as a historian.
+She was the project manager for the project "Historesch gesinn". She talked about the relationship between historians and the public while crating history about something. There was a case in which her team worked something out but when those findings were confronted with the public's memories, it turned out that the public remembered the events and location completely differently.
+This presentation, along with the exploration of the "Historesch gesinn" website as homework, made me appreciate public history a lot more.
+I must admit that during my bachelor studies both courses given about public history left me unmotivated to persue any possible career in public history.
+This course did rectify this a bit and it motivated me to chose an analysis pf a public history website as my final prject for this course.
+
+
+
+
+
