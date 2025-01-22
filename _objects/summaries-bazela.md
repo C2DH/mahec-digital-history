@@ -103,3 +103,65 @@ The interface to the European Parliament's historical archives is initially rath
 During the course on the 30th of October, the session consisted of a lecture on the presentation of the archives of the European Parliament, as well as an introduction to the Archives Unit Dashboard by two creators of the program. After the lecture, the students could ask some questions about the dashboard and the archives of the European Parliament. The presentation and the discussion were very interesting, however, in my opinion, the subject itself is very technical, and I had some difficulty following the discussion.
 
 (511 words)
+
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-7
+authors:
+  - BAZELA - 0210949110
+date: 2025-01-22
+---
+
+## DH Theory, 06/11/2024
+During the session on 6 November 2024, we began the course with a discussion on the election of Donald Trump as President of the United States. After giving each student, the chance to speak, our teacher made a link between the content of the course and the way in which Donald Trump spreads Fake News, particularly in the case of his presidential companions. The Digital History Theory course therefore focuses on the question of true and false information, specifically from the historian's point of view. The internet is full of information of all kinds, to which anyone can have access: this implies certain difficulties when it comes to the veracity of this information. What's more, in the context of historical research, there are also certain examples of the manipulation and falsification of information. One such example is the case of the British writer David Irving, who falsified the number of witnesses to the destruction of Dresden in 1963, but who also questioned the fact that Hitler directed the Holocaust. We might therefore assume that it is simple to prove bad historical research, but this is not necessarily the case, especially where data-based sources are concerned. However, it is possible to carry out a 5-step process, which consists of selecting, modelling, normalizing, linking and then classifying the data. Finally, we also find the FAIR principles (findable, accessible, interoperable, reusable), which are fundamental principles governing the use of data in the scientific field in general.
+
+(243 words)
+
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-8
+authors:
+  - BAZELA - 0210949110
+date: 2025-01-22
+---
+
+## Scalable Reading & 'Voyant Tools', 04/12/2024
+We examined Winston Churchill's ‘Iron Curtain’ speech with Voyant Tools, using various visualizations	and ‘lists’ to analyze the text.
+Word cloud (Cirrus): The most frequent terms such as ‘world’, ‘war’, ‘united’, ‘states’ show the central themes of the speech. These words indicate Churchill's international focus and political message, particularly the relationship between Britain, the United States and the Great War. The lack of mention of the Soviets could indicate their role as antagonists or that they were left out for other reasons. The visualized frequency of the terms helps to gain an initial overview of the main themes of the text and could be used in a school context to identify important or unfamiliar words before reading. The Terms Berry visualized the importance of different terms in relation to each other.
+Collocations and contexts: Visualizing collocations revealed how certain words are used together in the text. This makes it possible to better understand Churchill's intentions and nuances. It provides a quick orientation and helps to find relevant passages, like a search function, but with a more general and interactive visualization.
+ 
+By deconstructing the text, patterns and recurring themes become visible, which enables a different perspective on the speech. This method can be used in one’s own work, for example when analyzing historical texts, legal documents or literature, to quickly grasp central themes and structures.
+
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-9
+authors:
+  - BAZELA - 0210949110
+date: 2025-01-22
+---
+
+## Dissemination (Part I) & Case Studies, 11/12/2024
+The course on 11 December 2024 was a presentation of the Historesch gesinn website by the project manager herself, Joëlla van Donkersgoed. The course was also part of a reflection on the concept of Public History, of which the site also seems to be an object. In fact, the site makes it possible to consult several Public History projects, i.e. history made and partly created by a non-academic public. As stated on the site, it is a ‘bridge between historians and the public, communicating the past in the present’. In addition to these various projects, a feature of the site is that it encourages everyone to contribute, in one way or another, to each project, by allowing documents to be sent, which will then be analyzed by experts in the various subjects. Through these initiatives, the site's aim is to encourage anyone interested and willing to learn about history to consult the site, and to understand that anyone's own past can become, in this sense, History. Maintained by a team of researchers from the Luxembourg Centre for Contemporary and Digital History (C2DH), the aim of the site is to give the public access to academic historical research, but also to help them understand that everyone's past is part of the great temporality of History. 
+
+(214 words)
+
+
+
+---
+title: Session Summaries by Guillaume-Bazela
+abstract: Summary-10
+authors:
+  - BAZELA - 0210949110
+date: 2025-01-22
+---
+
+## Dissemination (Part II) & Case Studies, 18/12/2024
+In the last session of the ‘Introduction to Digital History’ course, we looked at the publication of scientific works in the context of academic research, where the aim of publication is to contribute to research on a subject and make it accessible for future research. In order for an academic work to be published, it must comply with certain rules and standards, and then finally undergo a ‘peer review’ process, which involves having the work reviewed by experts in the field, in order to guarantee the quality of the work and its information. The publication of scientific works is therefore a sub-sector of the publishing industry, whose origins date back to the development of the various scientific disciplines in Europe in the seventeenth and eighteenth centuries. However, there are also ‘open access’ publications, the aim of which is to democratize information by giving everyone access to it via the Internet, with the only rule being that the authors must be correctly cited. In addition, scientific publishing is evolving towards new formats, among which the data document (and data journals) plays a crucial role. A data document is a form of accessible metadata describing a set or group of data sets, published as a peer-reviewed article in a scientific journal. Unlike traditional research articles, these documents aim primarily to detail the data collected and the conditions under which it was collected, without focusing on the hypotheses and conclusions. The aim is to provide an exhaustive description of the data and its context.
+
+(251 words)
