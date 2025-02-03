@@ -6,7 +6,6 @@ authors:
 date: 2024-10-14
 --- 
 
-----------------------------------------------------------------------------------------------------------------------------
  ## Weekly summary of the 25th September 2024
 
 My general impression of that lesson are that too many buzzwords are used and sometimes it felt like I was at a product presentation of a software in which I learned next to nothing about said product.
@@ -14,15 +13,12 @@ As for the speed, I much rather the professors take their times talking well abo
 As for the presentation and introduction into data and metadata, I remember being overwhelmed and misunderstanding the example given about the Philippine Facebook. Having first seen the metadata without any context given, it made me feel ever more lost throughout the lesson. I suggest not doing this for the first real example about data and metadata since most students are into human sciences and not informatics. Make people interested in a subject they know nothing about instead of infatuated and lost.
 Finally about Tropy, the few we saw about it, looked interesting. Sadly it wasn’t possible to go further into its functionalities because the software looked interesting and actually useful, an impression I did not get with data and metadata even though I constantly use them in my research.
 
-----------------------------------------------------------------------------------------------------------------------------
 ## Weekly summary of the 2nd October 2024
 
 This week in class we had the class be split into multiple groups depending on the assignment each student or group wanted to do. My group consisted of Charel, another guy who sat beside me and myself. Our assignment had us reading an article by the BBC about web archives and some initiatives doing web archiving. The article mostly talked about the Internet archive, a private venture trying to archive as much as possible from the Internet. It also talked about two separate web archives, these two were government funded but way tinier in scope and focused on specific websites like Twitter for example.
 The article itself was interesting but threw various arguments, problematics and example around. It could’ve been more structured but everything else was fine. After we barely touched the subject of discussing the article each of us read on his own, we were kindly obliged to start the presentation phase of the class. I believe we did fine-ish, except for some rambling due to a lack of time to realistically organise our thoughts about the various questions we had to answer about the article.
 As for the other presentations, it was interesting to see that it is easier than I thought to find one self’s digital footprint nowadays, something which another group was tasked to do about themselves and then present the results to the rest of the class.
 Generally, I preferred this type of class to the one from the previous week because the active work made me invested in class and didn’t allow me to doze off mentally, which I struggle not to do in more “academic” lectures.
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Weekly summary of the 9th October 2024
 
@@ -31,8 +27,6 @@ Professor Düring made us work in groups to then explore the various functionali
 My group consisted of Stefan, Samuel Pierre and myself and the funcionality we analysed and tried out was the Text Reuse. The thought behind that functionality was to search for a certain expression and look at what Impresso gave back.
 We used "Ligue des nations" which turned many journals from 1920 up to 1922, then pretty much nothing until 1934. Since "Ligue des nations" is doubly used as the League of Nations and the Nations Cup in Football, we found some articles of journals mentionnning the football event. This lead us to restrict the search parameters with time limits.
 Another part of the tools we analysed was supposed to looks for words in journals about our searchword and show journals with articles with content similar to the ones having "Ligue des Nations" in them. The reality was that this funciton simply did not work at all. That function looked at characters, not words which made it that journals with high matches had in actuallity nothing to do with the searched subject.
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Weekly summary of the 16th October 2024
 
@@ -45,8 +39,6 @@ The map also allowed the users to searhc for the buildings built during a given 
 Another interesting part of the website are the interviews with its residents. There we find not only the interviews but also where people lived.
 After taking a look at the projects website, Stefan and me tried recreating such a map on StoryMaps and it didn't work. StoryMaps refused have squares that weren't parallel to the users screen, hence why our territorial delimitations weren't as accurate as the actual nieghbourhood.
 Even with the documentation on StoryMaps and the tutorials the website offers, we struggled immensely to the point of frustration.
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Weekly summary of the 23rd October 2024
 
@@ -62,13 +54,9 @@ The thought behind the hands-on was to create a network with nodes and attirubte
 All in all, that lesson was quite fun and not frustrating, something which is a reaccuring feeling throughout this class.
 I believe the real life example and the freedom during the hand-on made this lesson quite interesting and easy to digest.
 
-----------------------------------------------------------------------------------------------------------------------------
-
 ## Weekly summary of the 30th October 2024
 
 I was sick that week and couldn't partake in the class about the EU Parliament Archives.
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Weekly summary of the 6th November 2024
 
@@ -98,9 +86,6 @@ We saw the difference between real artificial intelligence and machine learning,
 We also looked at 
 
 
-
-----------------------------------------------------------------------------------------------------------------------------
-
 ## Weekly summary of the 20th November 2024
 
 During this lesson we continued with the sad subject of AIs and their benefits and problems in regards to historical work. We first had a look into what some "important" guy at OpenAI had to say during a podcast. He made the irrational comparaison to ccars saying that it isn't a manufactors fault if a car gets into an accident but the driver's. He missed tha part in which if the car manufactor intentionally ignored safety precautions and that the accident is due to this, that yes it is the manufactor's fault. Same with AI, if there's no code in an AI to protect humans from harm AI will not hesitate to suggest harm. There has been a case in the United States where a teenage boy killed himself after an AI persona motivated him to commit suicide.
@@ -108,26 +93,14 @@ During this lesson we continued with the sad subject of AIs and their benefits a
 During the hands-on the classe was divided into  groups. First each group had to discuss by itself the arguments for or against AI use in history.
 I was part of the group against it. I won't go into details of what arguments each group said but the general consensus was that using AI to ease some menial work is fine but using AI for the menial work, the analysis, redaction and thinking, basically use AI to replace historians is too much. AI has to be used as a tool and nothing more.
 
-
-----------------------------------------------------------------------------------------------------------------------------
-
 ## Weekly summary of the 27th November 2024
-This week wwe looked at the Twine Game Engine, was fun, Not much to say except that I don't like how this lesson did exactly what I'm so against AIs. Instead of helping the students find ways to be create in story telling while also being historically accurate.
+This week we looked at the Twine Game Engine, was fun, Not much to say except that I don't like how this lesson did exactly what I'm so against AIs. Instead of helping the students find ways to be create in story telling while also being historically accurate.
 So instead of combining arts and history, we students got the menial part of coding the game. The one human aspect, the art of videogame making got relegated to some AI.
 This is exactly what AI is not supposed to be used.
 How's a historian supposed to develop empathy towars the people of the past if he can't even imagine because he relegates that, to me slightly important part of the historian's job, to some ... AI?
 I did try during the homework, which was meant to finish the hands-on, to use AI to help me code at least something in Twine but neither Chat GPT nor Copilot were able to give me the correct synthax for Twine 2, the engine we used.
 I dont understand why we're learning how to be some lazyass historians with AI instead of sunday-level coders.
 Twine was fun thoough.
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Weekly summary of the 4th December 2024
 
@@ -136,17 +109,6 @@ This week together with Jo, Samuel, Guillaume and Pierre, we analysed Chruchill'
 Our most important worsd were "war", "world", "united", and, "states". These 4 words give a hint into the speech's content. Something about a world war and maybe the United States.
 Voyant tools allowed us to not only find out how often these 4 wors were used but also in conjunction with what other wors.
 This tool seems to be quite useful. The only regret is that we had such a well-known speech to analyse during the hands-on. This made our analysis of Voyant Tools' output biased toawrds Churchill's intentions. It would've been interseting to get a lesser known speech, analyse it with Voyant Tools and then read the speech and see if the results of the analysis with Voyant Tools coincides with the findings of the archaïc analysis.
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------
 
 ## Weekly summary of the 13th December 2024
 
