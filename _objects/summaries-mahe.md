@@ -6,12 +6,12 @@ authors:
 date: 2024-10-11
 ---
 
-## [2nd Session], [25.09.2024]
+## 2nd Session, 25.09.2024
 
 As a new student at the University of Luxembourg, more than a decade after earning my bachelor’s degree, the introductory course to digital history is quite challenging for me. Despite having taken an introductory course on information and communication techniques at ULB with Prof. Dr. Seth van Hooland, I must admit that I am not very familiar with new technologies. I have mostly relied on research using index cards, although I must acknowledge that the first time I accessed a source through the BNF’s online catalog, I was impressed. Not having to go to the precious reserve and wear gloves was a real pleasure and provided me with a comfortable and welcome working environment. The course itself on data and metadata was interesting and opens up possibilities. I see this seminar as a toolbox. I don’t know how to use these tools yet, and it will undoubtedly be a painful learning process, but with an interesting outcome: saving time and not having to manually write a bibliography or footnotes, which is probably more painful than learning the tools.
 I will end with a question about data and metadata themselves: is having almost exhaustive data always a good thing for historians? Isn’t it the “natural” selection of what has been transmitted to us that sometimes makes the research process interesting? If a document has reached us, it is because it was of some importance. Was there any clear manipulation? Why are they unavailable? This is obviously a question to be approached with caution and nuance, but I sometimes feel overwhelmed by a torrent of information when it comes to digital history.
 
-## [3rd Session], [02.10.2024]
+## 3rd Session, 02.10.2024
 
 The session on web archives allowed me to discover the benefits of tools like the “Way back Machine,” which provides snapshots of websites at chosen periods. This can be useful in historical research to capture a snapshot of opinions at a specific moment. Working in a group allowed us to focus on a specific topic, and it’s always a good exercise to present our ideas concisely to an audience. The other topics presented by fellow students gave me a limited but insightful understanding of the advantages web archiving can offer historians. This can be very interesting for recent history topics, as well as for collecting meta-data to correlate with more traditional research or to critique a previously formulated hypothesis, all while maintaining a certain restraint and critical thinking.
 Ultimately, I would like to be able to search for information on the dark web to increase my chances of finding material. Web archiving seems to me to be a colossal task, an almost inexhaustible source of information. The real challenge, in this case, will be to effectively question the sources. If a methodological theme on this subject could be addressed, it would be very enriching.
